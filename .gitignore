@@ -1,1 +1,8 @@
 .idea
+
+
+# climateData Team Ignore Resources #
+/climateData_venv
+/climateData
+# To Ignore macOS file Metadata #
+.DS_Store
