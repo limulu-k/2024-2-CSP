@@ -3,6 +3,6 @@
 
 # climateData Team Ignore Resources #
 /climateData_venv
-/climateData_processing/climateData
+/ClimateDataTeam/climateData
 # To Ignore macOS file Metadata #
 .DS_Store
