@@ -1,5 +1,5 @@
 import pandas as pd
-
+import csv
 
 
 # ---------------------------------------------
@@ -132,3 +132,51 @@ def display_merged_data_preview(merged_df, num_rows=5):
 
 # 병합된 데이터 미리보기
 # display_merged_data_preview(merged_df)
+
+
+# ---------------------------------------------
+# 3. RAW DATA -> CSV Format
+# ---------------------------------------------
+# 파일을 읽고 공백을 쉼표로 대체한 뒤 새로운 파일에 저장하는 코드입니다.
+
+# 원본 파일 읽기 (예: 원본 파일이 'data.txt'에 있다고 가정)
+def space_to_csv():
+    with open('climateData/original_weekly_co2(unused).csv', 'r') as file:
+        lines = file.readlines()
+
+    # 공백을 쉼표로 바꿔서 새 파일에 저장
+    with open('climateData/original_weekly_co2(unused).csv', 'w') as csv_file:
+        for line in lines:
+            # 공백을 쉼표로 바꿉니다
+            new_line = ','.join(line.split())
+            csv_file.write(new_line + '\n')
+
+    print("original_weekly_co2(unused).csv 파일이 성공적으로 생성되었습니다.")
+
+
+# ---------------------------------------------
+# 3. DateTime Type Formatting
+# ---------------------------------------------
+# 기존 파일에서 네 번째 속성을 제거하고 새 파일에 저장하는 코드
+def csv_formatting() :
+    with open('./climateData/original_weekly_co2(unused).csv', 'r') as input_file, open('./climateData/weekly_co2_modified.csv', 'w', newline='') as output_file:
+        reader = csv.reader(input_file)
+        writer = csv.writer(output_file)
+
+        for row in reader:
+            # 네 번째 속성 제거
+            modified_row = row[:5]
+            writer.writerow(modified_row)
+
+    with open('./climateData/weekly_co2_modified.csv', 'r') as input_file, open('./climateData/weekly_co2.csv', 'w', newline='') as output_file:
+        reader = csv.reader(input_file)
+        writer = csv.writer(output_file)
+
+        for row in reader:
+            # 앞의 세 개 항목을 결합하여 'YYYY-MM-DD' 형식으로 변환
+            date = f"{row[0]}-{int(row[1]):02d}-{int(row[2]):02d}"
+            # 나머지 열을 그대로 이어 붙입니다
+            modified_row = [date] + row[3:]
+            writer.writerow(modified_row)
+
+    print("앞의 세 개 항목이 결합된 파일이 weekly_co2_modified.csv로 저장되었습니다.")
