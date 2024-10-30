@@ -28,8 +28,9 @@ def plot_temperature_trend(file_path, title="Weekly Average Temperature Trend"):
     # 그래프 보여주기
     plt.show()
 
-
-# 주 평균 온도 데이터 시각화 실행
+# ---------------------------------------------
+# 2. 주 평균 온도 빈도수 누적 평균 시각화 (By 꺾은선 그래프)
+# ---------------------------------------------
 plot_temperature_trend("./climateData/merged_weekly_avg_temp.csv",
                        "Weekly Average Temperature (Total)")
 
@@ -56,11 +57,8 @@ def plot_temperature_trend_with_smoothing(file_path, title="Weekly Average Tempe
 
 
 # ---------------------------------------------
-# < 시각화 실행 >
+# 3. 주 평균 온도 빈도수 히스토그램 시각화 (By 히스토그램)
 # ---------------------------------------------
-# plot_temperature_trend_with_smoothing("./climateData/merged_weekly_avg_temp.csv",
-#                                       "Weekly Average Temperature with Smoothing (Total)")
-
 def plot_temperature_histogram(file_path, title="Temperature Distribution"):
     df = pd.read_csv(file_path)
 
@@ -72,7 +70,18 @@ def plot_temperature_histogram(file_path, title="Temperature Distribution"):
     plt.show()
 
 
-# 시각화 실행
+# ---------------------------------------------
+# 4. 이산화탄소 공기 중 비율 시각화 (By 꺾은 선 그래프)
+# ---------------------------------------------
+
+
+# ---------------------------------------------
+# < 시각화 실행 >
+# ---------------------------------------------
+
+# plot_temperature_trend_with_smoothing("./climateData/merged_weekly_avg_temp.csv",
+#                                       "Weekly Average Temperature with Smoothing (Total)")
+
 plot_temperature_histogram("./climateData/merged_weekly_avg_temp.csv",
                            "Weekly Average Temperature Distribution")
 
