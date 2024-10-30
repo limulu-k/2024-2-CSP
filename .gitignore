@@ -3,6 +3,9 @@
 
 # climateData Team Ignore Resources #
 /climateData_venv
-/ClimateDataTeam/climateData
+/ClimateDataTeam/climateData/kaggle
+/ClimateDataTeam/climateData/previous_cd(unused)
+/ClimateDataTeam/climateData/selected_climate(unused)
+
 # To Ignore macOS file Metadata #
 .DS_Store
