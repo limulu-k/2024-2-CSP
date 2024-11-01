@@ -31,7 +31,7 @@ def plot_temperature_trend(file_path, title="Weekly Average Temperature Trend"):
 # ---------------------------------------------
 # 2. 주 평균 온도 빈도수 누적 평균 시각화 (By 꺾은선 그래프)
 # ---------------------------------------------
-plot_temperature_trend("./climateData/merged_weekly_avg_temp.csv",
+plot_temperature_trend("../climate_data/merged_weekly_avg_temp.csv",
                        "Weekly Average Temperature (Total)")
 
 
@@ -79,10 +79,10 @@ def plot_temperature_histogram(file_path, title="Temperature Distribution"):
 # < 시각화 실행 >
 # ---------------------------------------------
 
-# plot_temperature_trend_with_smoothing("./climateData/merged_weekly_avg_temp.csv",
+# plot_temperature_trend_with_smoothing("./climate_data/merged_weekly_avg_temp.csv",
 #                                       "Weekly Average Temperature with Smoothing (Total)")
 
-plot_temperature_histogram("./climateData/merged_weekly_avg_temp.csv",
+plot_temperature_histogram("../climate_data/merged_weekly_avg_temp.csv",
                            "Weekly Average Temperature Distribution")
 
 
