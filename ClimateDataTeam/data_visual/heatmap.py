@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # 데이터 파일 경로
-file_path = r"C:\Users\ehddb\2024-2-CSP\ClimateDataTeam\climateData\merged_weekly_avg_temp.csv"
+file_path = "../climate_data/merged_weekly_avg_temp.csv"
 
 # 데이터 로드
 data = pd.read_csv(file_path)

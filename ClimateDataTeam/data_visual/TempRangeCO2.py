@@ -3,8 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # 데이터 불러오기 및 컬럼 공백 제거
-temp_data = pd.read_csv("C:/Users/ehddb/2024-2-CSP/ClimateDataTeam/climate_data/merged_weekly_avg_temp.csv")
-co2_data = pd.read_csv("C:/Users/ehddb/2024-2-CSP/ClimateDataTeam/climate_data/weekly_co2.csv")
+temp_data = pd.read_csv("../climate_data/merged_weekly_avg_temp.csv")
+co2_data = pd.read_csv("../climate_data/weekly_co2.csv")
 co2_data.columns = co2_data.columns.str.strip()  # 공백 제거
 
 # 일교차 계산
