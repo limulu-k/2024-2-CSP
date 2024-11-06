@@ -5,7 +5,7 @@
 /climateData_venv
 /ClimateDataTeam/climate_data/kaggle
 /ClimateDataTeam/climate_data/previous_cd(unused)
-/ClimateDataTeam/climate_data/selected_climate(unused)
+/ClimateDataTeam/climate_data/previous_cd(unused)/selected_climate(unused)
 original_weekly_co2(unused).csv
 # To Ignore macOS file Metadata #
 .DS_Store
