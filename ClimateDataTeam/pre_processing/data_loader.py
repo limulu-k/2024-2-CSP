@@ -141,11 +141,11 @@ def display_merged_data_preview(merged_df, num_rows=5):
 
 # 원본 파일 읽기 (예: 원본 파일이 'data.txt'에 있다고 가정)
 def space_to_csv():
-    with open('../climate_data/original_weekly_co2(unused).csv', 'r') as file:
+    with open('../climate_data/previous_cd(unused)/original_weekly_co2(unused).csv', 'r') as file:
         lines = file.readlines()
 
     # 공백을 쉼표로 바꿔서 새 파일에 저장
-    with open('../climate_data/original_weekly_co2(unused).csv', 'w') as csv_file:
+    with open('../climate_data/previous_cd(unused)/original_weekly_co2(unused).csv', 'w') as csv_file:
         for line in lines:
             # 공백을 쉼표로 바꿉니다
             new_line = ','.join(line.split())
@@ -159,7 +159,7 @@ def space_to_csv():
 # ---------------------------------------------
 # 기존 파일에서 네 번째 속성을 제거하고 새 파일에 저장하는 코드
 def csv_formatting() :
-    with open('../climate_data/original_weekly_co2(unused).csv', 'r') as input_file, open('./climate_data/weekly_co2_modified.csv', 'w', newline='') as output_file:
+    with open('../climate_data/previous_cd(unused)/original_weekly_co2(unused).csv', 'r') as input_file, open('./climate_data/weekly_co2_modified.csv', 'w', newline='') as output_file:
         reader = csv.reader(input_file)
         writer = csv.writer(output_file)
 
