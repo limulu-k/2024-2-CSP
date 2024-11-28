@@ -1,0 +1,2844 @@
+===============7 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1767
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.51437759399414
+  tempmin            | True: 27.32 | Predicted: 47.0906867980957
+  temp               | True: 35.75428571428572 | Predicted: 54.3509521484375
+  dew                | True: -6.6000000000000005 | Predicted: 25.107223510742188
+  humidity           | True: 54.657142857142865 | Predicted: 62.141658782958984
+  precip             | True: 0.006571428571428501 | Predicted: 2.5733439922332764
+  windspeed          | True: 13.457142857142854 | Predicted: 10.530074119567871
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.4428100585938
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.43443575501441956
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.83068084716797
+  tempmin            | True: 66.85714285714286 | Predicted: 43.12945556640625
+  temp               | True: 75.28571428571429 | Predicted: 54.10942840576172
+  dew                | True: 62.971428571428575 | Predicted: 35.859901428222656
+  humidity           | True: 67.58571428571429 | Predicted: 62.81380081176758
+  precip             | True: 0.2628571428571428 | Predicted: -0.30850639939308167
+  windspeed          | True: 12.457142857142856 | Predicted: 10.367961883544922
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.1234130859375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.457122266292572
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.03396987915039
+  tempmin            | True: 16.571428571428573 | Predicted: 40.52332305908203
+  temp               | True: 24.957142857142856 | Predicted: 50.640625
+  dew                | True: 5.871428571428572 | Predicted: 36.969669342041016
+  humidity           | True: 47.52857142857143 | Predicted: 64.04102325439453
+  precip             | True: 0.0 | Predicted: -0.33646443486213684
+  windspeed          | True: 10.6 | Predicted: 10.287933349609375
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.931640625
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.44256293773651123
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.65486145019531
+  tempmin            | True: 71.67142857142856 | Predicted: 45.68918228149414
+  temp               | True: 75.97142857142856 | Predicted: 55.620384216308594
+  dew                | True: 73.05714285714285 | Predicted: 40.01877212524414
+  humidity           | True: 91.21428571428572 | Predicted: 67.3416748046875
+  precip             | True: 3.1935714285714285 | Predicted: 0.5948280692100525
+  windspeed          | True: 15.185714285714282 | Predicted: 10.944235801696777
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.9652709960938
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4722059667110443
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.23312759399414
+  tempmin            | True: 65.28571428571429 | Predicted: 46.30192565917969
+  temp               | True: 72.14285714285714 | Predicted: 54.832698822021484
+  dew                | True: 66.44285714285715 | Predicted: 40.204158782958984
+  humidity           | True: 83.64285714285714 | Predicted: 67.86182403564453
+  precip             | True: 0.7211428571428572 | Predicted: 0.9949435591697693
+  windspeed          | True: 10.3 | Predicted: 10.916584014892578
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1016.0512084960938
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.48121410608291626
+
+===============14 days matching===============
+Test Loss: 0.0231, Test MAE: 0.1748
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.575355529785156
+  tempmin            | True: 27.32 | Predicted: 45.14659881591797
+  temp               | True: 35.75428571428572 | Predicted: 53.33881759643555
+  dew                | True: -6.6000000000000005 | Predicted: 27.30266571044922
+  humidity           | True: 54.657142857142865 | Predicted: 62.206790924072266
+  precip             | True: 0.006571428571428501 | Predicted: 0.9959533214569092
+  windspeed          | True: 13.457142857142854 | Predicted: 10.36508560180664
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.399658203125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4730541408061981
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.29938507080078
+  tempmin            | True: 66.85714285714286 | Predicted: 39.88831329345703
+  temp               | True: 75.28571428571429 | Predicted: 50.980838775634766
+  dew                | True: 62.971428571428575 | Predicted: 33.73581314086914
+  humidity           | True: 67.58571428571429 | Predicted: 60.79359817504883
+  precip             | True: 0.2628571428571428 | Predicted: 0.3814263343811035
+  windspeed          | True: 12.457142857142856 | Predicted: 9.828544616699219
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.0890502929688
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4583567678928375
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.1500129699707
+  tempmin            | True: 16.571428571428573 | Predicted: 41.451717376708984
+  temp               | True: 24.957142857142856 | Predicted: 51.44060516357422
+  dew                | True: 5.871428571428572 | Predicted: 38.08601760864258
+  humidity           | True: 47.52857142857143 | Predicted: 62.80183410644531
+  precip             | True: 0.0 | Predicted: 0.25046300888061523
+  windspeed          | True: 10.6 | Predicted: 10.144201278686523
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.8438720703125
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4545404613018036
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 64.01509094238281
+  tempmin            | True: 71.67142857142856 | Predicted: 44.34253692626953
+  temp               | True: 75.97142857142856 | Predicted: 53.418304443359375
+  dew                | True: 73.05714285714285 | Predicted: 40.54655838012695
+  humidity           | True: 91.21428571428572 | Predicted: 66.78133392333984
+  precip             | True: 3.1935714285714285 | Predicted: 0.024779319763183594
+  windspeed          | True: 15.185714285714282 | Predicted: 10.991921424865723
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.1192016601562
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4731033146381378
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 63.260032653808594
+  tempmin            | True: 65.28571428571429 | Predicted: 44.53704833984375
+  temp               | True: 72.14285714285714 | Predicted: 52.52008056640625
+  dew                | True: 66.44285714285715 | Predicted: 39.23909378051758
+  humidity           | True: 83.64285714285714 | Predicted: 65.88935089111328
+  precip             | True: 0.7211428571428572 | Predicted: 0.08998888731002808
+  windspeed          | True: 10.3 | Predicted: 10.857490539550781
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1016.0430297851562
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.46842160820961
+
+===============21 days matching===============
+Test Loss: 0.0237, Test MAE: 0.1792
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.878662109375
+  tempmin            | True: 27.32 | Predicted: 45.08011245727539
+  temp               | True: 35.75428571428572 | Predicted: 53.34579086303711
+  dew                | True: -6.6000000000000005 | Predicted: 33.84181213378906
+  humidity           | True: 54.657142857142865 | Predicted: 63.917137145996094
+  precip             | True: 0.006571428571428501 | Predicted: 0.8917093276977539
+  windspeed          | True: 13.457142857142854 | Predicted: 10.61482048034668
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1016.5061645507812
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4948415458202362
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 56.93767166137695
+  tempmin            | True: 66.85714285714286 | Predicted: 42.97168731689453
+  temp               | True: 75.28571428571429 | Predicted: 51.94124221801758
+  dew                | True: 62.971428571428575 | Predicted: 32.27859115600586
+  humidity           | True: 67.58571428571429 | Predicted: 62.292259216308594
+  precip             | True: 0.2628571428571428 | Predicted: 1.8620786666870117
+  windspeed          | True: 12.457142857142856 | Predicted: 10.341620445251465
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.7742309570312
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45679721236228943
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 55.2783317565918
+  tempmin            | True: 16.571428571428573 | Predicted: 41.213157653808594
+  temp               | True: 24.957142857142856 | Predicted: 50.44384002685547
+  dew                | True: 5.871428571428572 | Predicted: 30.814903259277344
+  humidity           | True: 47.52857142857143 | Predicted: 61.77552795410156
+  precip             | True: 0.0 | Predicted: 2.0057923793792725
+  windspeed          | True: 10.6 | Predicted: 10.124225616455078
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.88623046875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4356360137462616
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 58.413272857666016
+  tempmin            | True: 71.67142857142856 | Predicted: 45.92597961425781
+  temp               | True: 75.97142857142856 | Predicted: 57.23270034790039
+  dew                | True: 73.05714285714285 | Predicted: 38.899383544921875
+  humidity           | True: 91.21428571428572 | Predicted: 65.59376525878906
+  precip             | True: 3.1935714285714285 | Predicted: 2.0698230266571045
+  windspeed          | True: 15.185714285714282 | Predicted: 10.70020866394043
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.5034790039062
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.49858421087265015
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.45319366455078
+  tempmin            | True: 65.28571428571429 | Predicted: 45.04315948486328
+  temp               | True: 72.14285714285714 | Predicted: 55.861881256103516
+  dew                | True: 66.44285714285715 | Predicted: 36.71830368041992
+  humidity           | True: 83.64285714285714 | Predicted: 65.21808624267578
+  precip             | True: 0.7211428571428572 | Predicted: 1.995518445968628
+  windspeed          | True: 10.3 | Predicted: 10.538762092590332
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1016.0424194335938
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.49873077869415283
+
+===============28 days matching===============
+Test Loss: 0.0235, Test MAE: 0.1774
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.643455505371094
+  tempmin            | True: 27.32 | Predicted: 47.496315002441406
+  temp               | True: 35.75428571428572 | Predicted: 55.028900146484375
+  dew                | True: -6.6000000000000005 | Predicted: 35.68272399902344
+  humidity           | True: 54.657142857142865 | Predicted: 63.730464935302734
+  precip             | True: 0.006571428571428501 | Predicted: 1.002845048904419
+  windspeed          | True: 13.457142857142854 | Predicted: 11.07657241821289
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.8085327148438
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.47305992245674133
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 57.60147476196289
+  tempmin            | True: 66.85714285714286 | Predicted: 42.147239685058594
+  temp               | True: 75.28571428571429 | Predicted: 50.01615524291992
+  dew                | True: 62.971428571428575 | Predicted: 32.6068115234375
+  humidity           | True: 67.58571428571429 | Predicted: 61.99850082397461
+  precip             | True: 0.2628571428571428 | Predicted: 1.4299622774124146
+  windspeed          | True: 12.457142857142856 | Predicted: 10.108774185180664
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.0496826171875
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4268968403339386
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.146270751953125
+  tempmin            | True: 16.571428571428573 | Predicted: 41.01131057739258
+  temp               | True: 24.957142857142856 | Predicted: 49.95128631591797
+  dew                | True: 5.871428571428572 | Predicted: 29.921588897705078
+  humidity           | True: 47.52857142857143 | Predicted: 62.18019485473633
+  precip             | True: 0.0 | Predicted: 0.26427584886550903
+  windspeed          | True: 10.6 | Predicted: 9.892993927001953
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.569091796875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4275614023208618
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.1873779296875
+  tempmin            | True: 71.67142857142856 | Predicted: 47.19544219970703
+  temp               | True: 75.97142857142856 | Predicted: 53.93903350830078
+  dew                | True: 73.05714285714285 | Predicted: 38.09598159790039
+  humidity           | True: 91.21428571428572 | Predicted: 65.15799713134766
+  precip             | True: 3.1935714285714285 | Predicted: 0.9218723773956299
+  windspeed          | True: 15.185714285714282 | Predicted: 10.687649726867676
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.9359741210938
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.48704659938812256
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.52547836303711
+  tempmin            | True: 65.28571428571429 | Predicted: 46.3212776184082
+  temp               | True: 72.14285714285714 | Predicted: 54.17502975463867
+  dew                | True: 66.44285714285715 | Predicted: 36.80867004394531
+  humidity           | True: 83.64285714285714 | Predicted: 64.69852447509766
+  precip             | True: 0.7211428571428572 | Predicted: 0.6794005036354065
+  windspeed          | True: 10.3 | Predicted: 10.8245849609375
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.4407348632812
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.48122909665107727
+
+===============35 days matching===============
+Test Loss: 0.0231, Test MAE: 0.1746
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 63.09209442138672
+  tempmin            | True: 27.32 | Predicted: 45.34540939331055
+  temp               | True: 35.75428571428572 | Predicted: 55.19839859008789
+  dew                | True: -6.6000000000000005 | Predicted: 35.64403533935547
+  humidity           | True: 54.657142857142865 | Predicted: 62.02931594848633
+  precip             | True: 0.006571428571428501 | Predicted: 0.5236460566520691
+  windspeed          | True: 13.457142857142854 | Predicted: 10.58433723449707
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.38037109375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.45566636323928833
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 59.996437072753906
+  tempmin            | True: 66.85714285714286 | Predicted: 41.83833312988281
+  temp               | True: 75.28571428571429 | Predicted: 51.75439453125
+  dew                | True: 62.971428571428575 | Predicted: 36.210105895996094
+  humidity           | True: 67.58571428571429 | Predicted: 61.10585403442383
+  precip             | True: 0.2628571428571428 | Predicted: 0.13258491456508636
+  windspeed          | True: 12.457142857142856 | Predicted: 10.292350769042969
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.6715087890625
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.44576820731163025
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.214107513427734
+  tempmin            | True: 16.571428571428573 | Predicted: 39.20661544799805
+  temp               | True: 24.957142857142856 | Predicted: 48.79316329956055
+  dew                | True: 5.871428571428572 | Predicted: 35.229896545410156
+  humidity           | True: 47.52857142857143 | Predicted: 61.485469818115234
+  precip             | True: 0.0 | Predicted: 0.4930475056171417
+  windspeed          | True: 10.6 | Predicted: 10.14307689666748
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.0032348632812
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.44051462411880493
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.8545036315918
+  tempmin            | True: 71.67142857142856 | Predicted: 46.74007034301758
+  temp               | True: 75.97142857142856 | Predicted: 55.25461959838867
+  dew                | True: 73.05714285714285 | Predicted: 39.71942901611328
+  humidity           | True: 91.21428571428572 | Predicted: 65.80408477783203
+  precip             | True: 3.1935714285714285 | Predicted: 0.9722064733505249
+  windspeed          | True: 15.185714285714282 | Predicted: 10.51401424407959
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.2815551757812
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.47798916697502136
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.73577880859375
+  tempmin            | True: 65.28571428571429 | Predicted: 43.08006286621094
+  temp               | True: 72.14285714285714 | Predicted: 52.232513427734375
+  dew                | True: 66.44285714285715 | Predicted: 36.494972229003906
+  humidity           | True: 83.64285714285714 | Predicted: 63.60350036621094
+  precip             | True: 0.7211428571428572 | Predicted: 1.042810082435608
+  windspeed          | True: 10.3 | Predicted: 10.378607749938965
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.8408203125
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4499909281730652
+
+===============42 days matching===============
+Test Loss: 0.0231, Test MAE: 0.1747
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 65.19927215576172
+  tempmin            | True: 27.32 | Predicted: 47.20895004272461
+  temp               | True: 35.75428571428572 | Predicted: 54.698490142822266
+  dew                | True: -6.6000000000000005 | Predicted: 34.840476989746094
+  humidity           | True: 54.657142857142865 | Predicted: 63.84119415283203
+  precip             | True: 0.006571428571428501 | Predicted: 0.1098255068063736
+  windspeed          | True: 13.457142857142854 | Predicted: 10.596074104309082
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1016.4887084960938
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.49498656392097473
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 62.719093322753906
+  tempmin            | True: 66.85714285714286 | Predicted: 44.447853088378906
+  temp               | True: 75.28571428571429 | Predicted: 52.55942153930664
+  dew                | True: 62.971428571428575 | Predicted: 36.11745071411133
+  humidity           | True: 67.58571428571429 | Predicted: 63.284358978271484
+  precip             | True: 0.2628571428571428 | Predicted: 0.3266049921512604
+  windspeed          | True: 12.457142857142856 | Predicted: 10.513322830200195
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.1968383789062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4686293303966522
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.58572006225586
+  tempmin            | True: 16.571428571428573 | Predicted: 40.614707946777344
+  temp               | True: 24.957142857142856 | Predicted: 48.62376403808594
+  dew                | True: 5.871428571428572 | Predicted: 30.148113250732422
+  humidity           | True: 47.52857142857143 | Predicted: 61.31174850463867
+  precip             | True: 0.0 | Predicted: 0.48647764325141907
+  windspeed          | True: 10.6 | Predicted: 9.97839641571045
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.0933227539062
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42388904094696045
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.90345001220703
+  tempmin            | True: 71.67142857142856 | Predicted: 45.010284423828125
+  temp               | True: 75.97142857142856 | Predicted: 52.93144989013672
+  dew                | True: 73.05714285714285 | Predicted: 38.001976013183594
+  humidity           | True: 91.21428571428572 | Predicted: 65.4023666381836
+  precip             | True: 3.1935714285714285 | Predicted: -0.2828379273414612
+  windspeed          | True: 15.185714285714282 | Predicted: 10.83483600616455
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.6798095703125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5042260885238647
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.74093246459961
+  tempmin            | True: 65.28571428571429 | Predicted: 45.665775299072266
+  temp               | True: 72.14285714285714 | Predicted: 53.61002731323242
+  dew                | True: 66.44285714285715 | Predicted: 38.54209899902344
+  humidity           | True: 83.64285714285714 | Predicted: 65.5295639038086
+  precip             | True: 0.7211428571428572 | Predicted: -0.17550690472126007
+  windspeed          | True: 10.3 | Predicted: 10.847865104675293
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.2428588867188
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4902787506580353
+
+===============49 days matching===============
+Test Loss: 0.0232, Test MAE: 0.1763
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.61330032348633
+  tempmin            | True: 27.32 | Predicted: 45.696319580078125
+  temp               | True: 35.75428571428572 | Predicted: 51.177066802978516
+  dew                | True: -6.6000000000000005 | Predicted: 31.910669326782227
+  humidity           | True: 54.657142857142865 | Predicted: 61.752166748046875
+  precip             | True: 0.006571428571428501 | Predicted: 1.5114227533340454
+  windspeed          | True: 13.457142857142854 | Predicted: 10.23453140258789
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1016.0358276367188
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.45917752385139465
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.26284408569336
+  tempmin            | True: 66.85714285714286 | Predicted: 43.2877082824707
+  temp               | True: 75.28571428571429 | Predicted: 51.23540115356445
+  dew                | True: 62.971428571428575 | Predicted: 35.205352783203125
+  humidity           | True: 67.58571428571429 | Predicted: 62.236446380615234
+  precip             | True: 0.2628571428571428 | Predicted: 0.6770830750465393
+  windspeed          | True: 12.457142857142856 | Predicted: 10.181378364562988
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.8217163085938
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.46766263246536255
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.809940338134766
+  tempmin            | True: 16.571428571428573 | Predicted: 39.892513275146484
+  temp               | True: 24.957142857142856 | Predicted: 49.150421142578125
+  dew                | True: 5.871428571428572 | Predicted: 33.50202560424805
+  humidity           | True: 47.52857142857143 | Predicted: 61.30788040161133
+  precip             | True: 0.0 | Predicted: 0.32750579714775085
+  windspeed          | True: 10.6 | Predicted: 9.9722261428833
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.8194580078125
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.44094768166542053
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.74151611328125
+  tempmin            | True: 71.67142857142856 | Predicted: 46.469642639160156
+  temp               | True: 75.97142857142856 | Predicted: 54.716941833496094
+  dew                | True: 73.05714285714285 | Predicted: 42.1745719909668
+  humidity           | True: 91.21428571428572 | Predicted: 67.71360778808594
+  precip             | True: 3.1935714285714285 | Predicted: 0.6498104929924011
+  windspeed          | True: 15.185714285714282 | Predicted: 11.023085594177246
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.6082763671875
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5018703937530518
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.79226303100586
+  tempmin            | True: 65.28571428571429 | Predicted: 46.14968490600586
+  temp               | True: 72.14285714285714 | Predicted: 53.92742156982422
+  dew                | True: 66.44285714285715 | Predicted: 40.018123626708984
+  humidity           | True: 83.64285714285714 | Predicted: 67.2052993774414
+  precip             | True: 0.7211428571428572 | Predicted: 1.19111967086792
+  windspeed          | True: 10.3 | Predicted: 11.04647159576416
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1016.0103759765625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4906006455421448
+
+===============56 days matching===============
+Test Loss: 0.0233, Test MAE: 0.1762
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 60.571990966796875
+  tempmin            | True: 27.32 | Predicted: 43.55673599243164
+  temp               | True: 35.75428571428572 | Predicted: 53.37882614135742
+  dew                | True: -6.6000000000000005 | Predicted: 28.89506721496582
+  humidity           | True: 54.657142857142865 | Predicted: 60.46247482299805
+  precip             | True: 0.006571428571428501 | Predicted: 0.7763012051582336
+  windspeed          | True: 13.457142857142854 | Predicted: 10.543054580688477
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.8572998046875
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4554772675037384
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 57.83561325073242
+  tempmin            | True: 66.85714285714286 | Predicted: 40.09965133666992
+  temp               | True: 75.28571428571429 | Predicted: 49.08201599121094
+  dew                | True: 62.971428571428575 | Predicted: 32.982261657714844
+  humidity           | True: 67.58571428571429 | Predicted: 59.468894958496094
+  precip             | True: 0.2628571428571428 | Predicted: 0.530377209186554
+  windspeed          | True: 12.457142857142856 | Predicted: 10.1734619140625
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.8619995117188
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.44126448035240173
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.70410919189453
+  tempmin            | True: 16.571428571428573 | Predicted: 41.4327392578125
+  temp               | True: 24.957142857142856 | Predicted: 50.32838821411133
+  dew                | True: 5.871428571428572 | Predicted: 36.06238555908203
+  humidity           | True: 47.52857142857143 | Predicted: 61.444618225097656
+  precip             | True: 0.0 | Predicted: 0.33574265241622925
+  windspeed          | True: 10.6 | Predicted: 10.199668884277344
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.250732421875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4461694359779358
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 64.35782623291016
+  tempmin            | True: 71.67142857142856 | Predicted: 46.900997161865234
+  temp               | True: 75.97142857142856 | Predicted: 55.04417037963867
+  dew                | True: 73.05714285714285 | Predicted: 46.0418701171875
+  humidity           | True: 91.21428571428572 | Predicted: 67.11494445800781
+  precip             | True: 3.1935714285714285 | Predicted: 0.09825965017080307
+  windspeed          | True: 15.185714285714282 | Predicted: 10.986308097839355
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.987548828125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5434756875038147
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 65.79972839355469
+  tempmin            | True: 65.28571428571429 | Predicted: 46.57114028930664
+  temp               | True: 72.14285714285714 | Predicted: 55.236106872558594
+  dew                | True: 66.44285714285715 | Predicted: 44.78129577636719
+  humidity           | True: 83.64285714285714 | Predicted: 67.02272033691406
+  precip             | True: 0.7211428571428572 | Predicted: 1.2816365957260132
+  windspeed          | True: 10.3 | Predicted: 10.460920333862305
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.9224243164062
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.5355876088142395
+
+===============63 days matching===============
+Test Loss: 0.0244, Test MAE: 0.1794
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 57.656185150146484
+  tempmin            | True: 27.32 | Predicted: 39.686363220214844
+  temp               | True: 35.75428571428572 | Predicted: 47.241912841796875
+  dew                | True: -6.6000000000000005 | Predicted: 20.03109359741211
+  humidity           | True: 54.657142857142865 | Predicted: 60.17881774902344
+  precip             | True: 0.006571428571428501 | Predicted: 1.009652018547058
+  windspeed          | True: 13.457142857142854 | Predicted: 9.928438186645508
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.3167114257812
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.39116305112838745
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 56.53445053100586
+  tempmin            | True: 66.85714285714286 | Predicted: 37.71703338623047
+  temp               | True: 75.28571428571429 | Predicted: 47.309181213378906
+  dew                | True: 62.971428571428575 | Predicted: 27.01009750366211
+  humidity           | True: 67.58571428571429 | Predicted: 59.02913284301758
+  precip             | True: 0.2628571428571428 | Predicted: -0.04266441613435745
+  windspeed          | True: 12.457142857142856 | Predicted: 9.730451583862305
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1013.6138916015625
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.3882044553756714
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.770198822021484
+  tempmin            | True: 16.571428571428573 | Predicted: 38.05719757080078
+  temp               | True: 24.957142857142856 | Predicted: 48.36952590942383
+  dew                | True: 5.871428571428572 | Predicted: 31.235586166381836
+  humidity           | True: 47.52857142857143 | Predicted: 61.110015869140625
+  precip             | True: 0.0 | Predicted: -0.40290677547454834
+  windspeed          | True: 10.6 | Predicted: 9.872739791870117
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.4130249023438
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.41011273860931396
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.29613494873047
+  tempmin            | True: 71.67142857142856 | Predicted: 41.63072967529297
+  temp               | True: 75.97142857142856 | Predicted: 50.88623046875
+  dew                | True: 73.05714285714285 | Predicted: 35.73560333251953
+  humidity           | True: 91.21428571428572 | Predicted: 64.76322937011719
+  precip             | True: 3.1935714285714285 | Predicted: -0.11840324103832245
+  windspeed          | True: 15.185714285714282 | Predicted: 10.509061813354492
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.2352294921875
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4582919478416443
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 64.45553588867188
+  tempmin            | True: 65.28571428571429 | Predicted: 45.30571746826172
+  temp               | True: 72.14285714285714 | Predicted: 54.58116149902344
+  dew                | True: 66.44285714285715 | Predicted: 41.66592788696289
+  humidity           | True: 83.64285714285714 | Predicted: 66.54425048828125
+  precip             | True: 0.7211428571428572 | Predicted: -0.14831624925136566
+  windspeed          | True: 10.3 | Predicted: 10.831595420837402
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.0307006835938
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.5054708123207092
+
+===============70 days matching===============
+Test Loss: 0.0248, Test MAE: 0.1799
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.9588508605957
+  tempmin            | True: 27.32 | Predicted: 43.30278396606445
+  temp               | True: 35.75428571428572 | Predicted: 50.604373931884766
+  dew                | True: -6.6000000000000005 | Predicted: 30.50798225402832
+  humidity           | True: 54.657142857142865 | Predicted: 61.81024932861328
+  precip             | True: 0.006571428571428501 | Predicted: 1.0655189752578735
+  windspeed          | True: 13.457142857142854 | Predicted: 10.385397911071777
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.2274169921875
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4368375837802887
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 59.51899337768555
+  tempmin            | True: 66.85714285714286 | Predicted: 41.24821472167969
+  temp               | True: 75.28571428571429 | Predicted: 49.936405181884766
+  dew                | True: 62.971428571428575 | Predicted: 35.39657974243164
+  humidity           | True: 67.58571428571429 | Predicted: 61.75197982788086
+  precip             | True: 0.2628571428571428 | Predicted: 0.4840106666088104
+  windspeed          | True: 12.457142857142856 | Predicted: 9.868797302246094
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.1940307617188
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4249188303947449
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 56.90675354003906
+  tempmin            | True: 16.571428571428573 | Predicted: 38.850303649902344
+  temp               | True: 24.957142857142856 | Predicted: 47.470035552978516
+  dew                | True: 5.871428571428572 | Predicted: 31.52435874938965
+  humidity           | True: 47.52857142857143 | Predicted: 60.96377182006836
+  precip             | True: 0.0 | Predicted: -0.07643107324838638
+  windspeed          | True: 10.6 | Predicted: 9.9856595993042
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.8858032226562
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.41967275738716125
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 64.18888854980469
+  tempmin            | True: 71.67142857142856 | Predicted: 45.69163513183594
+  temp               | True: 75.97142857142856 | Predicted: 54.82421112060547
+  dew                | True: 73.05714285714285 | Predicted: 41.96635818481445
+  humidity           | True: 91.21428571428572 | Predicted: 66.43195343017578
+  precip             | True: 3.1935714285714285 | Predicted: 1.2673951387405396
+  windspeed          | True: 15.185714285714282 | Predicted: 10.464960098266602
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.4967651367188
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4886459410190582
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 64.60533142089844
+  tempmin            | True: 65.28571428571429 | Predicted: 46.036781311035156
+  temp               | True: 72.14285714285714 | Predicted: 55.08283615112305
+  dew                | True: 66.44285714285715 | Predicted: 42.126686096191406
+  humidity           | True: 83.64285714285714 | Predicted: 66.31973266601562
+  precip             | True: 0.7211428571428572 | Predicted: 1.0906277894973755
+  windspeed          | True: 10.3 | Predicted: 10.596728324890137
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.78076171875
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4880378246307373
+
+===============77 days matching===============
+Test Loss: 0.0232, Test MAE: 0.1753
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 61.8507194519043
+  tempmin            | True: 27.32 | Predicted: 42.903995513916016
+  temp               | True: 35.75428571428572 | Predicted: 54.35978698730469
+  dew                | True: -6.6000000000000005 | Predicted: 28.817846298217773
+  humidity           | True: 54.657142857142865 | Predicted: 61.49968338012695
+  precip             | True: 0.006571428571428501 | Predicted: 1.008350133895874
+  windspeed          | True: 13.457142857142854 | Predicted: 9.970328330993652
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.87548828125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4319944679737091
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 62.19308853149414
+  tempmin            | True: 66.85714285714286 | Predicted: 44.5420036315918
+  temp               | True: 75.28571428571429 | Predicted: 55.01470947265625
+  dew                | True: 62.971428571428575 | Predicted: 37.997867584228516
+  humidity           | True: 67.58571428571429 | Predicted: 62.421478271484375
+  precip             | True: 0.2628571428571428 | Predicted: 0.2160719782114029
+  windspeed          | True: 12.457142857142856 | Predicted: 10.29710578918457
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.2312622070312
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.474103718996048
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 59.93220138549805
+  tempmin            | True: 16.571428571428573 | Predicted: 43.338233947753906
+  temp               | True: 24.957142857142856 | Predicted: 51.213470458984375
+  dew                | True: 5.871428571428572 | Predicted: 40.00511169433594
+  humidity           | True: 47.52857142857143 | Predicted: 63.38219451904297
+  precip             | True: 0.0 | Predicted: 0.7992984056472778
+  windspeed          | True: 10.6 | Predicted: 10.145344734191895
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.4415893554688
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.455405592918396
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.59279251098633
+  tempmin            | True: 71.67142857142856 | Predicted: 45.12278747558594
+  temp               | True: 75.97142857142856 | Predicted: 55.35097122192383
+  dew                | True: 73.05714285714285 | Predicted: 43.713863372802734
+  humidity           | True: 91.21428571428572 | Predicted: 67.41567993164062
+  precip             | True: 3.1935714285714285 | Predicted: 0.36008864641189575
+  windspeed          | True: 15.185714285714282 | Predicted: 10.946526527404785
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.7742919921875
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5123078227043152
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 63.14451217651367
+  tempmin            | True: 65.28571428571429 | Predicted: 44.798824310302734
+  temp               | True: 72.14285714285714 | Predicted: 54.100284576416016
+  dew                | True: 66.44285714285715 | Predicted: 42.593597412109375
+  humidity           | True: 83.64285714285714 | Predicted: 66.595458984375
+  precip             | True: 0.7211428571428572 | Predicted: 0.5342926383018494
+  windspeed          | True: 10.3 | Predicted: 10.75713062286377
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.431396484375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4980170428752899
+
+===============84 days matching===============
+Test Loss: 0.0231, Test MAE: 0.1753
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.54854202270508
+  tempmin            | True: 27.32 | Predicted: 41.18906784057617
+  temp               | True: 35.75428571428572 | Predicted: 50.63643264770508
+  dew                | True: -6.6000000000000005 | Predicted: 26.717206954956055
+  humidity           | True: 54.657142857142865 | Predicted: 59.81403350830078
+  precip             | True: 0.006571428571428501 | Predicted: -0.6988540887832642
+  windspeed          | True: 13.457142857142854 | Predicted: 9.838578224182129
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.2239990234375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4069281220436096
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.41746139526367
+  tempmin            | True: 66.85714285714286 | Predicted: 42.92268753051758
+  temp               | True: 75.28571428571429 | Predicted: 53.71498107910156
+  dew                | True: 62.971428571428575 | Predicted: 35.37864303588867
+  humidity           | True: 67.58571428571429 | Predicted: 61.642601013183594
+  precip             | True: 0.2628571428571428 | Predicted: -0.04343724250793457
+  windspeed          | True: 12.457142857142856 | Predicted: 9.718687057495117
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.5748291015625
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45055583119392395
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.710845947265625
+  tempmin            | True: 16.571428571428573 | Predicted: 41.28871154785156
+  temp               | True: 24.957142857142856 | Predicted: 51.85694122314453
+  dew                | True: 5.871428571428572 | Predicted: 34.972599029541016
+  humidity           | True: 47.52857142857143 | Predicted: 62.825103759765625
+  precip             | True: 0.0 | Predicted: -0.1743706464767456
+  windspeed          | True: 10.6 | Predicted: 9.74234676361084
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.5798950195312
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4464627802371979
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.27873611450195
+  tempmin            | True: 71.67142857142856 | Predicted: 44.879066467285156
+  temp               | True: 75.97142857142856 | Predicted: 52.66971969604492
+  dew                | True: 73.05714285714285 | Predicted: 39.5148811340332
+  humidity           | True: 91.21428571428572 | Predicted: 67.5455322265625
+  precip             | True: 3.1935714285714285 | Predicted: 0.632908284664154
+  windspeed          | True: 15.185714285714282 | Predicted: 10.567158699035645
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.7847900390625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.48507970571517944
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.659950256347656
+  tempmin            | True: 65.28571428571429 | Predicted: 43.966060638427734
+  temp               | True: 72.14285714285714 | Predicted: 52.45748519897461
+  dew                | True: 66.44285714285715 | Predicted: 37.99462890625
+  humidity           | True: 83.64285714285714 | Predicted: 67.18402862548828
+  precip             | True: 0.7211428571428572 | Predicted: 0.6943342089653015
+  windspeed          | True: 10.3 | Predicted: 10.390695571899414
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.80322265625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4752284288406372
+
+===============91 days matching===============
+Test Loss: 0.0236, Test MAE: 0.1772
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.80596923828125
+  tempmin            | True: 27.32 | Predicted: 40.730377197265625
+  temp               | True: 35.75428571428572 | Predicted: 51.124244689941406
+  dew                | True: -6.6000000000000005 | Predicted: 24.258228302001953
+  humidity           | True: 54.657142857142865 | Predicted: 59.074501037597656
+  precip             | True: 0.006571428571428501 | Predicted: 0.9221170544624329
+  windspeed          | True: 13.457142857142854 | Predicted: 10.771424293518066
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.2185668945312
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4229640066623688
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.95637130737305
+  tempmin            | True: 66.85714285714286 | Predicted: 41.77663040161133
+  temp               | True: 75.28571428571429 | Predicted: 51.116336822509766
+  dew                | True: 62.971428571428575 | Predicted: 32.267147064208984
+  humidity           | True: 67.58571428571429 | Predicted: 61.26631546020508
+  precip             | True: 0.2628571428571428 | Predicted: 0.42969080805778503
+  windspeed          | True: 12.457142857142856 | Predicted: 9.910784721374512
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.2288818359375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.43054527044296265
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.21416473388672
+  tempmin            | True: 16.571428571428573 | Predicted: 41.11085510253906
+  temp               | True: 24.957142857142856 | Predicted: 49.26395797729492
+  dew                | True: 5.871428571428572 | Predicted: 32.909420013427734
+  humidity           | True: 47.52857142857143 | Predicted: 61.87946319580078
+  precip             | True: 0.0 | Predicted: 0.29528385400772095
+  windspeed          | True: 10.6 | Predicted: 9.683978080749512
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.6683959960938
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42350462079048157
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.70893859863281
+  tempmin            | True: 71.67142857142856 | Predicted: 47.072776794433594
+  temp               | True: 75.97142857142856 | Predicted: 55.591609954833984
+  dew                | True: 73.05714285714285 | Predicted: 41.16202926635742
+  humidity           | True: 91.21428571428572 | Predicted: 69.11160278320312
+  precip             | True: 3.1935714285714285 | Predicted: 0.33200186491012573
+  windspeed          | True: 15.185714285714282 | Predicted: 10.638931274414062
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.2254638671875
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5085018873214722
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 63.18686294555664
+  tempmin            | True: 65.28571428571429 | Predicted: 46.55317687988281
+  temp               | True: 72.14285714285714 | Predicted: 55.0029182434082
+  dew                | True: 66.44285714285715 | Predicted: 40.24027633666992
+  humidity           | True: 83.64285714285714 | Predicted: 68.28215789794922
+  precip             | True: 0.7211428571428572 | Predicted: 0.3137284219264984
+  windspeed          | True: 10.3 | Predicted: 10.609077453613281
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.9068603515625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.5128049850463867
+
+===============98 days matching===============
+Test Loss: 0.0267, Test MAE: 0.1825
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 57.54991912841797
+  tempmin            | True: 27.32 | Predicted: 39.089210510253906
+  temp               | True: 35.75428571428572 | Predicted: 49.10041046142578
+  dew                | True: -6.6000000000000005 | Predicted: 27.195554733276367
+  humidity           | True: 54.657142857142865 | Predicted: 61.57783508300781
+  precip             | True: 0.006571428571428501 | Predicted: 1.0176546573638916
+  windspeed          | True: 13.457142857142854 | Predicted: 10.604981422424316
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.2573852539062
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4010729491710663
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.351226806640625
+  tempmin            | True: 66.85714285714286 | Predicted: 41.68016815185547
+  temp               | True: 75.28571428571429 | Predicted: 52.08794021606445
+  dew                | True: 62.971428571428575 | Predicted: 36.64070510864258
+  humidity           | True: 67.58571428571429 | Predicted: 62.77517318725586
+  precip             | True: 0.2628571428571428 | Predicted: 0.27465882897377014
+  windspeed          | True: 12.457142857142856 | Predicted: 9.914599418640137
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.5026245117188
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45979246497154236
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 56.65140914916992
+  tempmin            | True: 16.571428571428573 | Predicted: 37.505733489990234
+  temp               | True: 24.957142857142856 | Predicted: 48.601863861083984
+  dew                | True: 5.871428571428572 | Predicted: 30.980205535888672
+  humidity           | True: 47.52857142857143 | Predicted: 60.90697479248047
+  precip             | True: 0.0 | Predicted: 0.5603339672088623
+  windspeed          | True: 10.6 | Predicted: 9.61207103729248
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.5097045898438
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42374154925346375
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.47803497314453
+  tempmin            | True: 71.67142857142856 | Predicted: 44.58677673339844
+  temp               | True: 75.97142857142856 | Predicted: 55.11695861816406
+  dew                | True: 73.05714285714285 | Predicted: 42.647491455078125
+  humidity           | True: 91.21428571428572 | Predicted: 68.42292785644531
+  precip             | True: 3.1935714285714285 | Predicted: 0.638681173324585
+  windspeed          | True: 15.185714285714282 | Predicted: 10.54992961883545
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.5613403320312
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.48081329464912415
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.20479965209961
+  tempmin            | True: 65.28571428571429 | Predicted: 43.232234954833984
+  temp               | True: 72.14285714285714 | Predicted: 53.912353515625
+  dew                | True: 66.44285714285715 | Predicted: 41.05976486206055
+  humidity           | True: 83.64285714285714 | Predicted: 67.27986145019531
+  precip             | True: 0.7211428571428572 | Predicted: 0.4766909182071686
+  windspeed          | True: 10.3 | Predicted: 10.34809398651123
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.1320190429688
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.46915045380592346
+
+===============105 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1765
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 54.6040153503418
+  tempmin            | True: 27.32 | Predicted: 35.641544342041016
+  temp               | True: 35.75428571428572 | Predicted: 45.96659469604492
+  dew                | True: -6.6000000000000005 | Predicted: 17.55009651184082
+  humidity           | True: 54.657142857142865 | Predicted: 57.84706497192383
+  precip             | True: 0.006571428571428501 | Predicted: 0.1326795518398285
+  windspeed          | True: 13.457142857142854 | Predicted: 9.499775886535645
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1012.723876953125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.3626556098461151
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 62.17360305786133
+  tempmin            | True: 66.85714285714286 | Predicted: 46.72287368774414
+  temp               | True: 75.28571428571429 | Predicted: 53.68124008178711
+  dew                | True: 62.971428571428575 | Predicted: 37.059837341308594
+  humidity           | True: 67.58571428571429 | Predicted: 61.9947509765625
+  precip             | True: 0.2628571428571428 | Predicted: 0.45391765236854553
+  windspeed          | True: 12.457142857142856 | Predicted: 10.48537826538086
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.6480102539062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4349830150604248
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.2396240234375
+  tempmin            | True: 16.571428571428573 | Predicted: 42.19578170776367
+  temp               | True: 24.957142857142856 | Predicted: 50.59324645996094
+  dew                | True: 5.871428571428572 | Predicted: 34.574241638183594
+  humidity           | True: 47.52857142857143 | Predicted: 63.16911315917969
+  precip             | True: 0.0 | Predicted: 0.2203426957130432
+  windspeed          | True: 10.6 | Predicted: 10.16200065612793
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.1962280273438
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.429452508687973
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 58.51288986206055
+  tempmin            | True: 71.67142857142856 | Predicted: 44.39874267578125
+  temp               | True: 75.97142857142856 | Predicted: 53.4737434387207
+  dew                | True: 73.05714285714285 | Predicted: 40.383907318115234
+  humidity           | True: 91.21428571428572 | Predicted: 67.02958679199219
+  precip             | True: 3.1935714285714285 | Predicted: 0.18673142790794373
+  windspeed          | True: 15.185714285714282 | Predicted: 10.609201431274414
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.4369506835938
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.48555025458335876
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.47203063964844
+  tempmin            | True: 65.28571428571429 | Predicted: 44.865211486816406
+  temp               | True: 72.14285714285714 | Predicted: 53.04163360595703
+  dew                | True: 66.44285714285715 | Predicted: 38.984127044677734
+  humidity           | True: 83.64285714285714 | Predicted: 65.91624450683594
+  precip             | True: 0.7211428571428572 | Predicted: 0.3705366253852844
+  windspeed          | True: 10.3 | Predicted: 10.425352096557617
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.2869873046875
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.47121307253837585
+
+===============112 days matching===============
+Test Loss: 0.0231, Test MAE: 0.1742
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 57.05188751220703
+  tempmin            | True: 27.32 | Predicted: 40.89501953125
+  temp               | True: 35.75428571428572 | Predicted: 49.52571105957031
+  dew                | True: -6.6000000000000005 | Predicted: 15.380135536193848
+  humidity           | True: 54.657142857142865 | Predicted: 61.35676956176758
+  precip             | True: 0.006571428571428501 | Predicted: 2.321946144104004
+  windspeed          | True: 13.457142857142854 | Predicted: 11.416606903076172
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.5816650390625
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.45291733741760254
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 57.36625289916992
+  tempmin            | True: 66.85714285714286 | Predicted: 41.23537826538086
+  temp               | True: 75.28571428571429 | Predicted: 50.32781219482422
+  dew                | True: 62.971428571428575 | Predicted: 33.17413330078125
+  humidity           | True: 67.58571428571429 | Predicted: 59.87117004394531
+  precip             | True: 0.2628571428571428 | Predicted: 0.10574720799922943
+  windspeed          | True: 12.457142857142856 | Predicted: 9.613585472106934
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.7984008789062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4182344377040863
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 55.29004669189453
+  tempmin            | True: 16.571428571428573 | Predicted: 38.3950309753418
+  temp               | True: 24.957142857142856 | Predicted: 47.69767761230469
+  dew                | True: 5.871428571428572 | Predicted: 31.752351760864258
+  humidity           | True: 47.52857142857143 | Predicted: 61.29038619995117
+  precip             | True: 0.0 | Predicted: 0.6072108745574951
+  windspeed          | True: 10.6 | Predicted: 9.751367568969727
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.7189331054688
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42150160670280457
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 60.373992919921875
+  tempmin            | True: 71.67142857142856 | Predicted: 42.32560729980469
+  temp               | True: 75.97142857142856 | Predicted: 52.56907653808594
+  dew                | True: 73.05714285714285 | Predicted: 37.500938415527344
+  humidity           | True: 91.21428571428572 | Predicted: 65.74314880371094
+  precip             | True: 3.1935714285714285 | Predicted: 0.345895916223526
+  windspeed          | True: 15.185714285714282 | Predicted: 10.648056030273438
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.9863891601562
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.46405845880508423
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.263694763183594
+  tempmin            | True: 65.28571428571429 | Predicted: 43.841331481933594
+  temp               | True: 72.14285714285714 | Predicted: 52.67748260498047
+  dew                | True: 66.44285714285715 | Predicted: 38.602325439453125
+  humidity           | True: 83.64285714285714 | Predicted: 65.09809875488281
+  precip             | True: 0.7211428571428572 | Predicted: 0.3977394700050354
+  windspeed          | True: 10.3 | Predicted: 10.432991981506348
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.615234375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4564095735549927
+
+===============119 days matching===============
+Test Loss: 0.0229, Test MAE: 0.1742
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.39470291137695
+  tempmin            | True: 27.32 | Predicted: 42.30836486816406
+  temp               | True: 35.75428571428572 | Predicted: 52.88583755493164
+  dew                | True: -6.6000000000000005 | Predicted: 23.670373916625977
+  humidity           | True: 54.657142857142865 | Predicted: 61.505123138427734
+  precip             | True: 0.006571428571428501 | Predicted: 1.950699806213379
+  windspeed          | True: 13.457142857142854 | Predicted: 10.787610054016113
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.638916015625
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4414186179637909
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.258880615234375
+  tempmin            | True: 66.85714285714286 | Predicted: 42.96891784667969
+  temp               | True: 75.28571428571429 | Predicted: 49.67530822753906
+  dew                | True: 62.971428571428575 | Predicted: 30.668746948242188
+  humidity           | True: 67.58571428571429 | Predicted: 60.996429443359375
+  precip             | True: 0.2628571428571428 | Predicted: 0.2415531724691391
+  windspeed          | True: 12.457142857142856 | Predicted: 10.093775749206543
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.4609985351562
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4664432406425476
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 61.24688720703125
+  tempmin            | True: 16.571428571428573 | Predicted: 41.96440887451172
+  temp               | True: 24.957142857142856 | Predicted: 49.933475494384766
+  dew                | True: 5.871428571428572 | Predicted: 35.508670806884766
+  humidity           | True: 47.52857142857143 | Predicted: 62.28068161010742
+  precip             | True: 0.0 | Predicted: 0.5594102740287781
+  windspeed          | True: 10.6 | Predicted: 10.173283576965332
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.0467529296875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4672970473766327
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.39459991455078
+  tempmin            | True: 71.67142857142856 | Predicted: 42.49310302734375
+  temp               | True: 75.97142857142856 | Predicted: 51.614990234375
+  dew                | True: 73.05714285714285 | Predicted: 37.47443771362305
+  humidity           | True: 91.21428571428572 | Predicted: 65.74763488769531
+  precip             | True: 3.1935714285714285 | Predicted: 0.43581801652908325
+  windspeed          | True: 15.185714285714282 | Predicted: 10.609052658081055
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.5758666992188
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4880608916282654
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.75209045410156
+  tempmin            | True: 65.28571428571429 | Predicted: 43.02497482299805
+  temp               | True: 72.14285714285714 | Predicted: 52.897491455078125
+  dew                | True: 66.44285714285715 | Predicted: 38.23092269897461
+  humidity           | True: 83.64285714285714 | Predicted: 65.01278686523438
+  precip             | True: 0.7211428571428572 | Predicted: 0.937753438949585
+  windspeed          | True: 10.3 | Predicted: 10.326431274414062
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.5857543945312
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.5013957023620605
+
+===============126 days matching===============
+Test Loss: 0.0266, Test MAE: 0.1829
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.170074462890625
+  tempmin            | True: 27.32 | Predicted: 45.37060546875
+  temp               | True: 35.75428571428572 | Predicted: 48.15763473510742
+  dew                | True: -6.6000000000000005 | Predicted: 23.103349685668945
+  humidity           | True: 54.657142857142865 | Predicted: 60.99281692504883
+  precip             | True: 0.006571428571428501 | Predicted: 0.42195001244544983
+  windspeed          | True: 13.457142857142854 | Predicted: 11.033407211303711
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1016.1231079101562
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.48604294657707214
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 63.243873596191406
+  tempmin            | True: 66.85714285714286 | Predicted: 45.594200134277344
+  temp               | True: 75.28571428571429 | Predicted: 53.43568420410156
+  dew                | True: 62.971428571428575 | Predicted: 37.192626953125
+  humidity           | True: 67.58571428571429 | Predicted: 62.68050765991211
+  precip             | True: 0.2628571428571428 | Predicted: 0.12407175451517105
+  windspeed          | True: 12.457142857142856 | Predicted: 10.549663543701172
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.4291381835938
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4520246982574463
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.184207916259766
+  tempmin            | True: 16.571428571428573 | Predicted: 39.99306869506836
+  temp               | True: 24.957142857142856 | Predicted: 48.540096282958984
+  dew                | True: 5.871428571428572 | Predicted: 32.14417266845703
+  humidity           | True: 47.52857142857143 | Predicted: 60.49343490600586
+  precip             | True: 0.0 | Predicted: -0.24780109524726868
+  windspeed          | True: 10.6 | Predicted: 10.062408447265625
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.0917358398438
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4123901128768921
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.394630432128906
+  tempmin            | True: 71.67142857142856 | Predicted: 44.64105987548828
+  temp               | True: 75.97142857142856 | Predicted: 51.409175872802734
+  dew                | True: 73.05714285714285 | Predicted: 40.33003616333008
+  humidity           | True: 91.21428571428572 | Predicted: 64.40836334228516
+  precip             | True: 3.1935714285714285 | Predicted: 0.4471268355846405
+  windspeed          | True: 15.185714285714282 | Predicted: 10.696962356567383
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.2506103515625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.49358949065208435
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 61.023170471191406
+  tempmin            | True: 65.28571428571429 | Predicted: 44.32175827026367
+  temp               | True: 72.14285714285714 | Predicted: 51.20014190673828
+  dew                | True: 66.44285714285715 | Predicted: 38.69939422607422
+  humidity           | True: 83.64285714285714 | Predicted: 64.51608276367188
+  precip             | True: 0.7211428571428572 | Predicted: 0.520128607749939
+  windspeed          | True: 10.3 | Predicted: 10.563151359558105
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.9579467773438
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4927924871444702
+
+===============133 days matching===============
+Test Loss: 0.0232, Test MAE: 0.1753
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 61.05936813354492
+  tempmin            | True: 27.32 | Predicted: 44.49332046508789
+  temp               | True: 35.75428571428572 | Predicted: 54.805320739746094
+  dew                | True: -6.6000000000000005 | Predicted: 26.425947189331055
+  humidity           | True: 54.657142857142865 | Predicted: 62.61259841918945
+  precip             | True: 0.006571428571428501 | Predicted: 1.4069056510925293
+  windspeed          | True: 13.457142857142854 | Predicted: 10.76336669921875
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.345458984375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.45787903666496277
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 63.0799446105957
+  tempmin            | True: 66.85714285714286 | Predicted: 46.042144775390625
+  temp               | True: 75.28571428571429 | Predicted: 55.02470779418945
+  dew                | True: 62.971428571428575 | Predicted: 41.04426574707031
+  humidity           | True: 67.58571428571429 | Predicted: 63.972633361816406
+  precip             | True: 0.2628571428571428 | Predicted: 0.7120615839958191
+  windspeed          | True: 12.457142857142856 | Predicted: 10.531608581542969
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.988037109375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.48346206545829773
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.72007369995117
+  tempmin            | True: 16.571428571428573 | Predicted: 40.80701446533203
+  temp               | True: 24.957142857142856 | Predicted: 49.86540222167969
+  dew                | True: 5.871428571428572 | Predicted: 34.70777130126953
+  humidity           | True: 47.52857142857143 | Predicted: 64.0920181274414
+  precip             | True: 0.0 | Predicted: 0.081879161298275
+  windspeed          | True: 10.6 | Predicted: 10.020926475524902
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.660888671875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4223829507827759
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.91087341308594
+  tempmin            | True: 71.67142857142856 | Predicted: 44.474090576171875
+  temp               | True: 75.97142857142856 | Predicted: 53.5684928894043
+  dew                | True: 73.05714285714285 | Predicted: 40.65531539916992
+  humidity           | True: 91.21428571428572 | Predicted: 67.3667984008789
+  precip             | True: 3.1935714285714285 | Predicted: 0.4068355858325958
+  windspeed          | True: 15.185714285714282 | Predicted: 10.608243942260742
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.6897583007812
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4751891791820526
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 59.701515197753906
+  tempmin            | True: 65.28571428571429 | Predicted: 40.91842269897461
+  temp               | True: 72.14285714285714 | Predicted: 49.76985549926758
+  dew                | True: 66.44285714285715 | Predicted: 35.116756439208984
+  humidity           | True: 83.64285714285714 | Predicted: 64.53682708740234
+  precip             | True: 0.7211428571428572 | Predicted: 0.21312347054481506
+  windspeed          | True: 10.3 | Predicted: 10.311211585998535
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.7923583984375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4382634460926056
+
+===============140 days matching===============
+Test Loss: 0.0233, Test MAE: 0.1756
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 61.62456130981445
+  tempmin            | True: 27.32 | Predicted: 44.90627670288086
+  temp               | True: 35.75428571428572 | Predicted: 51.82950210571289
+  dew                | True: -6.6000000000000005 | Predicted: 30.44566535949707
+  humidity           | True: 54.657142857142865 | Predicted: 59.86164093017578
+  precip             | True: 0.006571428571428501 | Predicted: 0.2817345857620239
+  windspeed          | True: 13.457142857142854 | Predicted: 9.73922061920166
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.2281494140625
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4216591417789459
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 63.26560974121094
+  tempmin            | True: 66.85714285714286 | Predicted: 45.81158447265625
+  temp               | True: 75.28571428571429 | Predicted: 53.694496154785156
+  dew                | True: 62.971428571428575 | Predicted: 36.08789825439453
+  humidity           | True: 67.58571428571429 | Predicted: 62.52796936035156
+  precip             | True: 0.2628571428571428 | Predicted: 0.12342436611652374
+  windspeed          | True: 12.457142857142856 | Predicted: 9.924081802368164
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.0443115234375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45465075969696045
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 61.06575393676758
+  tempmin            | True: 16.571428571428573 | Predicted: 44.484588623046875
+  temp               | True: 24.957142857142856 | Predicted: 53.50208282470703
+  dew                | True: 5.871428571428572 | Predicted: 36.99889373779297
+  humidity           | True: 47.52857142857143 | Predicted: 63.24882125854492
+  precip             | True: 0.0 | Predicted: 0.2578018605709076
+  windspeed          | True: 10.6 | Predicted: 9.992965698242188
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.3535766601562
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4533877670764923
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 64.0126724243164
+  tempmin            | True: 71.67142857142856 | Predicted: 47.0814323425293
+  temp               | True: 75.97142857142856 | Predicted: 56.71430587768555
+  dew                | True: 73.05714285714285 | Predicted: 43.45920181274414
+  humidity           | True: 91.21428571428572 | Predicted: 67.24674987792969
+  precip             | True: 3.1935714285714285 | Predicted: 0.7059081196784973
+  windspeed          | True: 15.185714285714282 | Predicted: 10.548233032226562
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.8399047851562
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.49869614839553833
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 61.777915954589844
+  tempmin            | True: 65.28571428571429 | Predicted: 45.050819396972656
+  temp               | True: 72.14285714285714 | Predicted: 54.53120422363281
+  dew                | True: 66.44285714285715 | Predicted: 39.4425163269043
+  humidity           | True: 83.64285714285714 | Predicted: 65.24041748046875
+  precip             | True: 0.7211428571428572 | Predicted: 0.6060700416564941
+  windspeed          | True: 10.3 | Predicted: 10.138886451721191
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.8623657226562
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4699171781539917
+
+===============147 days matching===============
+Test Loss: 0.0229, Test MAE: 0.1746
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.795772552490234
+  tempmin            | True: 27.32 | Predicted: 40.005306243896484
+  temp               | True: 35.75428571428572 | Predicted: 48.96650695800781
+  dew                | True: -6.6000000000000005 | Predicted: 27.45403480529785
+  humidity           | True: 54.657142857142865 | Predicted: 60.74846267700195
+  precip             | True: 0.006571428571428501 | Predicted: 0.5635010600090027
+  windspeed          | True: 13.457142857142854 | Predicted: 9.99332332611084
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.8303833007812
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.40764740109443665
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.88098907470703
+  tempmin            | True: 66.85714285714286 | Predicted: 45.075927734375
+  temp               | True: 75.28571428571429 | Predicted: 53.41051483154297
+  dew                | True: 62.971428571428575 | Predicted: 37.21942138671875
+  humidity           | True: 67.58571428571429 | Predicted: 61.61263656616211
+  precip             | True: 0.2628571428571428 | Predicted: 0.1728561371564865
+  windspeed          | True: 12.457142857142856 | Predicted: 10.121063232421875
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.884521484375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.48435309529304504
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.34048080444336
+  tempmin            | True: 16.571428571428573 | Predicted: 42.47415542602539
+  temp               | True: 24.957142857142856 | Predicted: 50.45559310913086
+  dew                | True: 5.871428571428572 | Predicted: 36.054874420166016
+  humidity           | True: 47.52857142857143 | Predicted: 61.267303466796875
+  precip             | True: 0.0 | Predicted: 0.5507432818412781
+  windspeed          | True: 10.6 | Predicted: 9.849350929260254
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.7999877929688
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4580077528953552
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.65522384643555
+  tempmin            | True: 71.67142857142856 | Predicted: 44.437957763671875
+  temp               | True: 75.97142857142856 | Predicted: 52.61590576171875
+  dew                | True: 73.05714285714285 | Predicted: 40.496543884277344
+  humidity           | True: 91.21428571428572 | Predicted: 65.62908172607422
+  precip             | True: 3.1935714285714285 | Predicted: 0.48751115798950195
+  windspeed          | True: 15.185714285714282 | Predicted: 10.57193660736084
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.9859619140625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4794892370700836
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.94347381591797
+  tempmin            | True: 65.28571428571429 | Predicted: 43.84001541137695
+  temp               | True: 72.14285714285714 | Predicted: 52.22951126098633
+  dew                | True: 66.44285714285715 | Predicted: 38.819122314453125
+  humidity           | True: 83.64285714285714 | Predicted: 64.524658203125
+  precip             | True: 0.7211428571428572 | Predicted: 0.5920596122741699
+  windspeed          | True: 10.3 | Predicted: 10.30637264251709
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.5618286132812
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.46840277314186096
+
+===============154 days matching===============
+Test Loss: 0.0237, Test MAE: 0.1764
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 56.533897399902344
+  tempmin            | True: 27.32 | Predicted: 40.26433181762695
+  temp               | True: 35.75428571428572 | Predicted: 48.960941314697266
+  dew                | True: -6.6000000000000005 | Predicted: 17.666728973388672
+  humidity           | True: 54.657142857142865 | Predicted: 62.18318557739258
+  precip             | True: 0.006571428571428501 | Predicted: 1.326420783996582
+  windspeed          | True: 13.457142857142854 | Predicted: 10.491744995117188
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.7070922851562
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4400063455104828
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 63.03539276123047
+  tempmin            | True: 66.85714285714286 | Predicted: 46.160831451416016
+  temp               | True: 75.28571428571429 | Predicted: 54.85042190551758
+  dew                | True: 62.971428571428575 | Predicted: 37.732322692871094
+  humidity           | True: 67.58571428571429 | Predicted: 62.40827178955078
+  precip             | True: 0.2628571428571428 | Predicted: 0.09913802891969681
+  windspeed          | True: 12.457142857142856 | Predicted: 9.861837387084961
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.703369140625
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45882904529571533
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 59.0440788269043
+  tempmin            | True: 16.571428571428573 | Predicted: 40.76626205444336
+  temp               | True: 24.957142857142856 | Predicted: 49.836204528808594
+  dew                | True: 5.871428571428572 | Predicted: 32.502586364746094
+  humidity           | True: 47.52857142857143 | Predicted: 61.36289596557617
+  precip             | True: 0.0 | Predicted: 0.3278200626373291
+  windspeed          | True: 10.6 | Predicted: 9.785557746887207
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.5498046875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42171818017959595
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.30910873413086
+  tempmin            | True: 71.67142857142856 | Predicted: 43.02059555053711
+  temp               | True: 75.97142857142856 | Predicted: 53.03414535522461
+  dew                | True: 73.05714285714285 | Predicted: 38.3151969909668
+  humidity           | True: 91.21428571428572 | Predicted: 65.3443832397461
+  precip             | True: 3.1935714285714285 | Predicted: 0.9287086725234985
+  windspeed          | True: 15.185714285714282 | Predicted: 10.728081703186035
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.746337890625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4588412344455719
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.7013053894043
+  tempmin            | True: 65.28571428571429 | Predicted: 41.38115692138672
+  temp               | True: 72.14285714285714 | Predicted: 52.03404235839844
+  dew                | True: 66.44285714285715 | Predicted: 33.69585037231445
+  humidity           | True: 83.64285714285714 | Predicted: 64.6407699584961
+  precip             | True: 0.7211428571428572 | Predicted: 0.47557005286216736
+  windspeed          | True: 10.3 | Predicted: 10.447697639465332
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.9508056640625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.44008076190948486
+
+===============161 days matching===============
+Test Loss: 0.0231, Test MAE: 0.1746
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 56.59323501586914
+  tempmin            | True: 27.32 | Predicted: 43.29481506347656
+  temp               | True: 35.75428571428572 | Predicted: 50.29269790649414
+  dew                | True: -6.6000000000000005 | Predicted: 25.82835578918457
+  humidity           | True: 54.657142857142865 | Predicted: 61.10523986816406
+  precip             | True: 0.006571428571428501 | Predicted: -0.41155776381492615
+  windspeed          | True: 13.457142857142854 | Predicted: 10.692322731018066
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.6607666015625
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4477737545967102
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 64.27877807617188
+  tempmin            | True: 66.85714285714286 | Predicted: 45.019718170166016
+  temp               | True: 75.28571428571429 | Predicted: 54.73793029785156
+  dew                | True: 62.971428571428575 | Predicted: 39.44179153442383
+  humidity           | True: 67.58571428571429 | Predicted: 62.300132751464844
+  precip             | True: 0.2628571428571428 | Predicted: 0.7368380427360535
+  windspeed          | True: 12.457142857142856 | Predicted: 10.029911994934082
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.9641723632812
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.43614649772644043
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.27556228637695
+  tempmin            | True: 16.571428571428573 | Predicted: 41.13270568847656
+  temp               | True: 24.957142857142856 | Predicted: 50.15545654296875
+  dew                | True: 5.871428571428572 | Predicted: 35.75137710571289
+  humidity           | True: 47.52857142857143 | Predicted: 63.233097076416016
+  precip             | True: 0.0 | Predicted: 0.05690113082528114
+  windspeed          | True: 10.6 | Predicted: 9.841938972473145
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.4473266601562
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.40758398175239563
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 61.17871856689453
+  tempmin            | True: 71.67142857142856 | Predicted: 42.05196762084961
+  temp               | True: 75.97142857142856 | Predicted: 50.96233367919922
+  dew                | True: 73.05714285714285 | Predicted: 37.059810638427734
+  humidity           | True: 91.21428571428572 | Predicted: 66.73506164550781
+  precip             | True: 3.1935714285714285 | Predicted: -0.09876054525375366
+  windspeed          | True: 15.185714285714282 | Predicted: 10.431344032287598
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.48291015625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.44500577449798584
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.73220443725586
+  tempmin            | True: 65.28571428571429 | Predicted: 41.916160583496094
+  temp               | True: 72.14285714285714 | Predicted: 50.48384094238281
+  dew                | True: 66.44285714285715 | Predicted: 36.10181427001953
+  humidity           | True: 83.64285714285714 | Predicted: 66.1899185180664
+  precip             | True: 0.7211428571428572 | Predicted: -0.12157262116670609
+  windspeed          | True: 10.3 | Predicted: 10.489813804626465
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.3129272460938
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4425813853740692
+
+===============168 days matching===============
+Test Loss: 0.0223, Test MAE: 0.1722
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 57.282474517822266
+  tempmin            | True: 27.32 | Predicted: 42.089088439941406
+  temp               | True: 35.75428571428572 | Predicted: 47.43623352050781
+  dew                | True: -6.6000000000000005 | Predicted: 22.422481536865234
+  humidity           | True: 54.657142857142865 | Predicted: 60.82632827758789
+  precip             | True: 0.006571428571428501 | Predicted: 1.298323154449463
+  windspeed          | True: 13.457142857142854 | Predicted: 10.816093444824219
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.6524658203125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.44111722707748413
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.94554901123047
+  tempmin            | True: 66.85714285714286 | Predicted: 44.37520980834961
+  temp               | True: 75.28571428571429 | Predicted: 52.81269454956055
+  dew                | True: 62.971428571428575 | Predicted: 37.6355094909668
+  humidity           | True: 67.58571428571429 | Predicted: 61.178863525390625
+  precip             | True: 0.2628571428571428 | Predicted: 0.8666331171989441
+  windspeed          | True: 12.457142857142856 | Predicted: 10.348821640014648
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.7628173828125
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45370978116989136
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.682655334472656
+  tempmin            | True: 16.571428571428573 | Predicted: 43.80684280395508
+  temp               | True: 24.957142857142856 | Predicted: 53.75430679321289
+  dew                | True: 5.871428571428572 | Predicted: 40.321495056152344
+  humidity           | True: 47.52857142857143 | Predicted: 63.713768005371094
+  precip             | True: 0.0 | Predicted: 0.6871955394744873
+  windspeed          | True: 10.6 | Predicted: 10.2394437789917
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.5025634765625
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4572599232196808
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.384857177734375
+  tempmin            | True: 71.67142857142856 | Predicted: 45.76555633544922
+  temp               | True: 75.97142857142856 | Predicted: 56.13266372680664
+  dew                | True: 73.05714285714285 | Predicted: 39.26751708984375
+  humidity           | True: 91.21428571428572 | Predicted: 65.8694076538086
+  precip             | True: 3.1935714285714285 | Predicted: -0.23865288496017456
+  windspeed          | True: 15.185714285714282 | Predicted: 10.648332595825195
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.6244506835938
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4910832941532135
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 61.163658142089844
+  tempmin            | True: 65.28571428571429 | Predicted: 43.34965896606445
+  temp               | True: 72.14285714285714 | Predicted: 54.93181228637695
+  dew                | True: 66.44285714285715 | Predicted: 38.05311965942383
+  humidity           | True: 83.64285714285714 | Predicted: 65.94486236572266
+  precip             | True: 0.7211428571428572 | Predicted: -0.5561316609382629
+  windspeed          | True: 10.3 | Predicted: 10.575767517089844
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.98583984375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4609832763671875
+
+===============175 days matching===============
+Test Loss: 0.0228, Test MAE: 0.1741
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 56.30490493774414
+  tempmin            | True: 27.32 | Predicted: 37.34389114379883
+  temp               | True: 35.75428571428572 | Predicted: 48.553043365478516
+  dew                | True: -6.6000000000000005 | Predicted: 19.945669174194336
+  humidity           | True: 54.657142857142865 | Predicted: 62.718345642089844
+  precip             | True: 0.006571428571428501 | Predicted: 1.7034802436828613
+  windspeed          | True: 13.457142857142854 | Predicted: 10.654767036437988
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.7022705078125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.38182389736175537
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.735416412353516
+  tempmin            | True: 66.85714285714286 | Predicted: 44.283573150634766
+  temp               | True: 75.28571428571429 | Predicted: 53.196983337402344
+  dew                | True: 62.971428571428575 | Predicted: 37.213619232177734
+  humidity           | True: 67.58571428571429 | Predicted: 62.672359466552734
+  precip             | True: 0.2628571428571428 | Predicted: 0.2723731994628906
+  windspeed          | True: 12.457142857142856 | Predicted: 10.183597564697266
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.7761840820312
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4589827060699463
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.32424545288086
+  tempmin            | True: 16.571428571428573 | Predicted: 42.57562255859375
+  temp               | True: 24.957142857142856 | Predicted: 51.85824203491211
+  dew                | True: 5.871428571428572 | Predicted: 36.64620590209961
+  humidity           | True: 47.52857142857143 | Predicted: 62.7693977355957
+  precip             | True: 0.0 | Predicted: 0.06228787824511528
+  windspeed          | True: 10.6 | Predicted: 10.014784812927246
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.010009765625
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4496679902076721
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 61.995906829833984
+  tempmin            | True: 71.67142857142856 | Predicted: 43.96501159667969
+  temp               | True: 75.97142857142856 | Predicted: 53.662559509277344
+  dew                | True: 73.05714285714285 | Predicted: 38.50468063354492
+  humidity           | True: 91.21428571428572 | Predicted: 66.51610565185547
+  precip             | True: 3.1935714285714285 | Predicted: 0.8914470672607422
+  windspeed          | True: 15.185714285714282 | Predicted: 10.55050277709961
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.30078125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.47147560119628906
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 59.75019073486328
+  tempmin            | True: 65.28571428571429 | Predicted: 41.279014587402344
+  temp               | True: 72.14285714285714 | Predicted: 51.28019714355469
+  dew                | True: 66.44285714285715 | Predicted: 34.897003173828125
+  humidity           | True: 83.64285714285714 | Predicted: 64.37203216552734
+  precip             | True: 0.7211428571428572 | Predicted: 0.6857612729072571
+  windspeed          | True: 10.3 | Predicted: 10.264266967773438
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.2684936523438
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4444592595100403
+
+===============182 days matching===============
+Test Loss: 0.0239, Test MAE: 0.1764
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 53.57794189453125
+  tempmin            | True: 27.32 | Predicted: 39.36569595336914
+  temp               | True: 35.75428571428572 | Predicted: 46.259033203125
+  dew                | True: -6.6000000000000005 | Predicted: 19.132970809936523
+  humidity           | True: 54.657142857142865 | Predicted: 58.83057403564453
+  precip             | True: 0.006571428571428501 | Predicted: 0.2843526005744934
+  windspeed          | True: 13.457142857142854 | Predicted: 10.593013763427734
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.2047729492188
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.38660019636154175
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 58.85102081298828
+  tempmin            | True: 66.85714285714286 | Predicted: 43.84568405151367
+  temp               | True: 75.28571428571429 | Predicted: 51.761993408203125
+  dew                | True: 62.971428571428575 | Predicted: 37.38206100463867
+  humidity           | True: 67.58571428571429 | Predicted: 63.1796875
+  precip             | True: 0.2628571428571428 | Predicted: 0.07798328250646591
+  windspeed          | True: 12.457142857142856 | Predicted: 10.268498420715332
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.1402587890625
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.44126981496810913
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.69795608520508
+  tempmin            | True: 16.571428571428573 | Predicted: 43.079261779785156
+  temp               | True: 24.957142857142856 | Predicted: 52.0430908203125
+  dew                | True: 5.871428571428572 | Predicted: 37.25525665283203
+  humidity           | True: 47.52857142857143 | Predicted: 63.309085845947266
+  precip             | True: 0.0 | Predicted: 0.305178701877594
+  windspeed          | True: 10.6 | Predicted: 10.23486614227295
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.0167236328125
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.444598525762558
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 59.674095153808594
+  tempmin            | True: 71.67142857142856 | Predicted: 43.51164627075195
+  temp               | True: 75.97142857142856 | Predicted: 51.93241882324219
+  dew                | True: 73.05714285714285 | Predicted: 38.29246520996094
+  humidity           | True: 91.21428571428572 | Predicted: 65.19824981689453
+  precip             | True: 3.1935714285714285 | Predicted: 0.2954101860523224
+  windspeed          | True: 15.185714285714282 | Predicted: 10.181411743164062
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.1334838867188
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4504733085632324
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 59.51795196533203
+  tempmin            | True: 65.28571428571429 | Predicted: 42.00253677368164
+  temp               | True: 72.14285714285714 | Predicted: 51.48782730102539
+  dew                | True: 66.44285714285715 | Predicted: 36.34944534301758
+  humidity           | True: 83.64285714285714 | Predicted: 64.35476684570312
+  precip             | True: 0.7211428571428572 | Predicted: 0.44742006063461304
+  windspeed          | True: 10.3 | Predicted: 10.361498832702637
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.91357421875
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.44571584463119507
+
+===============189 days matching===============
+Test Loss: 0.0227, Test MAE: 0.1741
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 56.96368408203125
+  tempmin            | True: 27.32 | Predicted: 41.63399124145508
+  temp               | True: 35.75428571428572 | Predicted: 48.04679870605469
+  dew                | True: -6.6000000000000005 | Predicted: 17.86296272277832
+  humidity           | True: 54.657142857142865 | Predicted: 62.17393112182617
+  precip             | True: 0.006571428571428501 | Predicted: 0.7296817898750305
+  windspeed          | True: 13.457142857142854 | Predicted: 10.58995532989502
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.4601440429688
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4154520630836487
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.416439056396484
+  tempmin            | True: 66.85714285714286 | Predicted: 45.50210952758789
+  temp               | True: 75.28571428571429 | Predicted: 54.464717864990234
+  dew                | True: 62.971428571428575 | Predicted: 38.531654357910156
+  humidity           | True: 67.58571428571429 | Predicted: 61.97523498535156
+  precip             | True: 0.2628571428571428 | Predicted: -0.6705244779586792
+  windspeed          | True: 12.457142857142856 | Predicted: 10.188531875610352
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.124267578125
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.46047869324684143
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.113861083984375
+  tempmin            | True: 16.571428571428573 | Predicted: 42.937320709228516
+  temp               | True: 24.957142857142856 | Predicted: 54.004974365234375
+  dew                | True: 5.871428571428572 | Predicted: 38.283294677734375
+  humidity           | True: 47.52857142857143 | Predicted: 63.44840621948242
+  precip             | True: 0.0 | Predicted: -0.008959189057350159
+  windspeed          | True: 10.6 | Predicted: 10.443243026733398
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.9373779296875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4517248570919037
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.98567581176758
+  tempmin            | True: 71.67142857142856 | Predicted: 46.31664276123047
+  temp               | True: 75.97142857142856 | Predicted: 56.2480354309082
+  dew                | True: 73.05714285714285 | Predicted: 45.065181732177734
+  humidity           | True: 91.21428571428572 | Predicted: 68.58080291748047
+  precip             | True: 3.1935714285714285 | Predicted: 0.9809685349464417
+  windspeed          | True: 15.185714285714282 | Predicted: 10.953740119934082
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1017.81396484375
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5216296315193176
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.27920913696289
+  tempmin            | True: 65.28571428571429 | Predicted: 40.164093017578125
+  temp               | True: 72.14285714285714 | Predicted: 49.70172882080078
+  dew                | True: 66.44285714285715 | Predicted: 33.214210510253906
+  humidity           | True: 83.64285714285714 | Predicted: 64.53543853759766
+  precip             | True: 0.7211428571428572 | Predicted: 1.176589012145996
+  windspeed          | True: 10.3 | Predicted: 10.214181900024414
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.687255859375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.43464598059654236
+
+===============196 days matching===============
+Test Loss: 0.0241, Test MAE: 0.1771
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 53.527889251708984
+  tempmin            | True: 27.32 | Predicted: 40.686214447021484
+  temp               | True: 35.75428571428572 | Predicted: 46.18669128417969
+  dew                | True: -6.6000000000000005 | Predicted: 21.844446182250977
+  humidity           | True: 54.657142857142865 | Predicted: 57.718528747558594
+  precip             | True: 0.006571428571428501 | Predicted: 2.3830435276031494
+  windspeed          | True: 13.457142857142854 | Predicted: 10.486407279968262
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.0189208984375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4136241674423218
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 63.354373931884766
+  tempmin            | True: 66.85714285714286 | Predicted: 43.301429748535156
+  temp               | True: 75.28571428571429 | Predicted: 54.93077087402344
+  dew                | True: 62.971428571428575 | Predicted: 33.5126838684082
+  humidity           | True: 67.58571428571429 | Predicted: 62.28215026855469
+  precip             | True: 0.2628571428571428 | Predicted: 0.5929692387580872
+  windspeed          | True: 12.457142857142856 | Predicted: 9.407483100891113
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.4595336914062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4668719470500946
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 59.787025451660156
+  tempmin            | True: 16.571428571428573 | Predicted: 39.32434844970703
+  temp               | True: 24.957142857142856 | Predicted: 52.1806526184082
+  dew                | True: 5.871428571428572 | Predicted: 28.206562042236328
+  humidity           | True: 47.52857142857143 | Predicted: 61.13905334472656
+  precip             | True: 0.0 | Predicted: 0.4492388963699341
+  windspeed          | True: 10.6 | Predicted: 9.311949729919434
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.156982421875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4246463477611542
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 58.69034957885742
+  tempmin            | True: 71.67142857142856 | Predicted: 39.12250518798828
+  temp               | True: 75.97142857142856 | Predicted: 49.28041076660156
+  dew                | True: 73.05714285714285 | Predicted: 28.777719497680664
+  humidity           | True: 91.21428571428572 | Predicted: 62.30299377441406
+  precip             | True: 3.1935714285714285 | Predicted: 0.09386244416236877
+  windspeed          | True: 15.185714285714282 | Predicted: 10.067254066467285
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.5091552734375
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.45359018445014954
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 57.11256790161133
+  tempmin            | True: 65.28571428571429 | Predicted: 37.4764518737793
+  temp               | True: 72.14285714285714 | Predicted: 50.04082489013672
+  dew                | True: 66.44285714285715 | Predicted: 27.991308212280273
+  humidity           | True: 83.64285714285714 | Predicted: 61.749725341796875
+  precip             | True: 0.7211428571428572 | Predicted: -0.6273885369300842
+  windspeed          | True: 10.3 | Predicted: 9.802209854125977
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.52587890625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4215671122074127
+
+===============203 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1773
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 57.12281799316406
+  tempmin            | True: 27.32 | Predicted: 38.0069694519043
+  temp               | True: 35.75428571428572 | Predicted: 48.852134704589844
+  dew                | True: -6.6000000000000005 | Predicted: 16.232498168945312
+  humidity           | True: 54.657142857142865 | Predicted: 59.0438346862793
+  precip             | True: 0.006571428571428501 | Predicted: 2.0562140941619873
+  windspeed          | True: 13.457142857142854 | Predicted: 9.869695663452148
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.794189453125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.3815247118473053
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.204193115234375
+  tempmin            | True: 66.85714285714286 | Predicted: 44.3412971496582
+  temp               | True: 75.28571428571429 | Predicted: 52.85191345214844
+  dew                | True: 62.971428571428575 | Predicted: 38.026466369628906
+  humidity           | True: 67.58571428571429 | Predicted: 62.88321304321289
+  precip             | True: 0.2628571428571428 | Predicted: 0.8161309361457825
+  windspeed          | True: 12.457142857142856 | Predicted: 10.505414962768555
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.4868774414062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.43748706579208374
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.45387268066406
+  tempmin            | True: 16.571428571428573 | Predicted: 40.470947265625
+  temp               | True: 24.957142857142856 | Predicted: 50.99576950073242
+  dew                | True: 5.871428571428572 | Predicted: 36.26776885986328
+  humidity           | True: 47.52857142857143 | Predicted: 62.05900573730469
+  precip             | True: 0.0 | Predicted: 0.8222936987876892
+  windspeed          | True: 10.6 | Predicted: 10.198501586914062
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.5846557617188
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4269631803035736
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 64.62007904052734
+  tempmin            | True: 71.67142857142856 | Predicted: 46.114471435546875
+  temp               | True: 75.97142857142856 | Predicted: 57.465110778808594
+  dew                | True: 73.05714285714285 | Predicted: 42.642704010009766
+  humidity           | True: 91.21428571428572 | Predicted: 67.47683715820312
+  precip             | True: 3.1935714285714285 | Predicted: 0.13300807774066925
+  windspeed          | True: 15.185714285714282 | Predicted: 11.037177085876465
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.3642578125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.49988216161727905
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 59.55615234375
+  tempmin            | True: 65.28571428571429 | Predicted: 39.899497985839844
+  temp               | True: 72.14285714285714 | Predicted: 51.44041442871094
+  dew                | True: 66.44285714285715 | Predicted: 37.495079040527344
+  humidity           | True: 83.64285714285714 | Predicted: 63.528907775878906
+  precip             | True: 0.7211428571428572 | Predicted: 0.7478339672088623
+  windspeed          | True: 10.3 | Predicted: 10.31539249420166
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1013.9155883789062
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4379114806652069
+
+===============210 days matching===============
+Test Loss: 0.0232, Test MAE: 0.1757
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 58.21742630004883
+  tempmin            | True: 27.32 | Predicted: 41.57328414916992
+  temp               | True: 35.75428571428572 | Predicted: 49.590538024902344
+  dew                | True: -6.6000000000000005 | Predicted: 20.325422286987305
+  humidity           | True: 54.657142857142865 | Predicted: 60.27834701538086
+  precip             | True: 0.006571428571428501 | Predicted: 0.7002295255661011
+  windspeed          | True: 13.457142857142854 | Predicted: 9.575250625610352
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.323486328125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.41308432817459106
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.689056396484375
+  tempmin            | True: 66.85714285714286 | Predicted: 44.8371696472168
+  temp               | True: 75.28571428571429 | Predicted: 52.79952621459961
+  dew                | True: 62.971428571428575 | Predicted: 35.241363525390625
+  humidity           | True: 67.58571428571429 | Predicted: 63.32840347290039
+  precip             | True: 0.2628571428571428 | Predicted: 0.44180771708488464
+  windspeed          | True: 12.457142857142856 | Predicted: 10.232767105102539
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.3589477539062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.42447420954704285
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 59.65473937988281
+  tempmin            | True: 16.571428571428573 | Predicted: 42.489566802978516
+  temp               | True: 24.957142857142856 | Predicted: 50.983036041259766
+  dew                | True: 5.871428571428572 | Predicted: 34.75069046020508
+  humidity           | True: 47.52857142857143 | Predicted: 62.44401168823242
+  precip             | True: 0.0 | Predicted: 0.31792956590652466
+  windspeed          | True: 10.6 | Predicted: 10.099081993103027
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.8441772460938
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.40479737520217896
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 61.422645568847656
+  tempmin            | True: 71.67142857142856 | Predicted: 45.69388961791992
+  temp               | True: 75.97142857142856 | Predicted: 53.66514587402344
+  dew                | True: 73.05714285714285 | Predicted: 38.93643569946289
+  humidity           | True: 91.21428571428572 | Predicted: 64.71484375
+  precip             | True: 3.1935714285714285 | Predicted: 0.7996488213539124
+  windspeed          | True: 15.185714285714282 | Predicted: 10.464944839477539
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.1923217773438
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4423391819000244
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 61.40593338012695
+  tempmin            | True: 65.28571428571429 | Predicted: 46.37662124633789
+  temp               | True: 72.14285714285714 | Predicted: 55.17729187011719
+  dew                | True: 66.44285714285715 | Predicted: 41.62786865234375
+  humidity           | True: 83.64285714285714 | Predicted: 65.424560546875
+  precip             | True: 0.7211428571428572 | Predicted: 0.8086526989936829
+  windspeed          | True: 10.3 | Predicted: 10.666267395019531
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.8048706054688
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4578286409378052
+
+===============217 days matching===============
+Test Loss: 0.0230, Test MAE: 0.1754
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 55.9071044921875
+  tempmin            | True: 27.32 | Predicted: 39.70789337158203
+  temp               | True: 35.75428571428572 | Predicted: 47.61811447143555
+  dew                | True: -6.6000000000000005 | Predicted: 23.40534782409668
+  humidity           | True: 54.657142857142865 | Predicted: 60.51450729370117
+  precip             | True: 0.006571428571428501 | Predicted: 1.3207004070281982
+  windspeed          | True: 13.457142857142854 | Predicted: 10.447012901306152
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.3968505859375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.39093875885009766
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.64089584350586
+  tempmin            | True: 66.85714285714286 | Predicted: 44.61671829223633
+  temp               | True: 75.28571428571429 | Predicted: 54.01791763305664
+  dew                | True: 62.971428571428575 | Predicted: 36.801239013671875
+  humidity           | True: 67.58571428571429 | Predicted: 61.56371307373047
+  precip             | True: 0.2628571428571428 | Predicted: 0.4676618278026581
+  windspeed          | True: 12.457142857142856 | Predicted: 9.901259422302246
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.2420654296875
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.453388512134552
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.69664001464844
+  tempmin            | True: 16.571428571428573 | Predicted: 40.23255157470703
+  temp               | True: 24.957142857142856 | Predicted: 50.33219909667969
+  dew                | True: 5.871428571428572 | Predicted: 31.57587242126465
+  humidity           | True: 47.52857142857143 | Predicted: 60.98994445800781
+  precip             | True: 0.0 | Predicted: 0.4461662769317627
+  windspeed          | True: 10.6 | Predicted: 9.608457565307617
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.107666015625
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4392317533493042
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.03889846801758
+  tempmin            | True: 71.67142857142856 | Predicted: 45.08110427856445
+  temp               | True: 75.97142857142856 | Predicted: 53.08482360839844
+  dew                | True: 73.05714285714285 | Predicted: 37.345947265625
+  humidity           | True: 91.21428571428572 | Predicted: 65.3941879272461
+  precip             | True: 3.1935714285714285 | Predicted: -0.2282831370830536
+  windspeed          | True: 15.185714285714282 | Predicted: 10.423531532287598
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.0126342773438
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.49893462657928467
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 59.46647262573242
+  tempmin            | True: 65.28571428571429 | Predicted: 41.647220611572266
+  temp               | True: 72.14285714285714 | Predicted: 51.68053436279297
+  dew                | True: 66.44285714285715 | Predicted: 34.42857360839844
+  humidity           | True: 83.64285714285714 | Predicted: 62.606201171875
+  precip             | True: 0.7211428571428572 | Predicted: 0.1362130045890808
+  windspeed          | True: 10.3 | Predicted: 9.955906867980957
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.774169921875
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.45656251907348633
+
+===============224 days matching===============
+Test Loss: 0.0230, Test MAE: 0.1740
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 56.482826232910156
+  tempmin            | True: 27.32 | Predicted: 37.73569107055664
+  temp               | True: 35.75428571428572 | Predicted: 49.996002197265625
+  dew                | True: -6.6000000000000005 | Predicted: 21.300235748291016
+  humidity           | True: 54.657142857142865 | Predicted: 60.383079528808594
+  precip             | True: 0.006571428571428501 | Predicted: 1.6243805885314941
+  windspeed          | True: 13.457142857142854 | Predicted: 10.012009620666504
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.005126953125
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.36263611912727356
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 59.65855026245117
+  tempmin            | True: 66.85714285714286 | Predicted: 42.443904876708984
+  temp               | True: 75.28571428571429 | Predicted: 52.873252868652344
+  dew                | True: 62.971428571428575 | Predicted: 36.14149475097656
+  humidity           | True: 67.58571428571429 | Predicted: 62.51369857788086
+  precip             | True: 0.2628571428571428 | Predicted: -0.11622802168130875
+  windspeed          | True: 12.457142857142856 | Predicted: 9.995363235473633
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.74169921875
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4301212728023529
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.705440521240234
+  tempmin            | True: 16.571428571428573 | Predicted: 40.3794059753418
+  temp               | True: 24.957142857142856 | Predicted: 50.86148452758789
+  dew                | True: 5.871428571428572 | Predicted: 35.46323013305664
+  humidity           | True: 47.52857142857143 | Predicted: 61.84986114501953
+  precip             | True: 0.0 | Predicted: -0.1891191601753235
+  windspeed          | True: 10.6 | Predicted: 9.941169738769531
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.7681274414062
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4127458930015564
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 65.1281967163086
+  tempmin            | True: 71.67142857142856 | Predicted: 47.79670715332031
+  temp               | True: 75.97142857142856 | Predicted: 54.41501235961914
+  dew                | True: 73.05714285714285 | Predicted: 40.8835334777832
+  humidity           | True: 91.21428571428572 | Predicted: 65.41046905517578
+  precip             | True: 3.1935714285714285 | Predicted: -0.008213894441723824
+  windspeed          | True: 15.185714285714282 | Predicted: 10.988198280334473
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.1560668945312
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.503123939037323
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 57.904144287109375
+  tempmin            | True: 65.28571428571429 | Predicted: 39.922847747802734
+  temp               | True: 72.14285714285714 | Predicted: 51.10210037231445
+  dew                | True: 66.44285714285715 | Predicted: 35.55200958251953
+  humidity           | True: 83.64285714285714 | Predicted: 63.219947814941406
+  precip             | True: 0.7211428571428572 | Predicted: -0.230560302734375
+  windspeed          | True: 10.3 | Predicted: 10.085911750793457
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.1187744140625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.42766425013542175
+
+===============231 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1773
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 54.622047424316406
+  tempmin            | True: 27.32 | Predicted: 39.377105712890625
+  temp               | True: 35.75428571428572 | Predicted: 47.30809783935547
+  dew                | True: -6.6000000000000005 | Predicted: 18.469406127929688
+  humidity           | True: 54.657142857142865 | Predicted: 58.63199996948242
+  precip             | True: 0.006571428571428501 | Predicted: 0.23030631244182587
+  windspeed          | True: 13.457142857142854 | Predicted: 9.653443336486816
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.1019897460938
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.40322569012641907
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 57.46982192993164
+  tempmin            | True: 66.85714285714286 | Predicted: 42.79203796386719
+  temp               | True: 75.28571428571429 | Predicted: 49.24424743652344
+  dew                | True: 62.971428571428575 | Predicted: 30.233503341674805
+  humidity           | True: 67.58571428571429 | Predicted: 61.14498519897461
+  precip             | True: 0.2628571428571428 | Predicted: 1.2726032733917236
+  windspeed          | True: 12.457142857142856 | Predicted: 9.796589851379395
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.4727172851562
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.41787371039390564
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.96187210083008
+  tempmin            | True: 16.571428571428573 | Predicted: 42.75608444213867
+  temp               | True: 24.957142857142856 | Predicted: 49.12861251831055
+  dew                | True: 5.871428571428572 | Predicted: 33.801998138427734
+  humidity           | True: 47.52857142857143 | Predicted: 62.37750244140625
+  precip             | True: 0.0 | Predicted: 0.695574164390564
+  windspeed          | True: 10.6 | Predicted: 9.99628734588623
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.4612426757812
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4022631347179413
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.63621139526367
+  tempmin            | True: 71.67142857142856 | Predicted: 46.06932067871094
+  temp               | True: 75.97142857142856 | Predicted: 55.12519836425781
+  dew                | True: 73.05714285714285 | Predicted: 42.583805084228516
+  humidity           | True: 91.21428571428572 | Predicted: 67.48289489746094
+  precip             | True: 3.1935714285714285 | Predicted: 0.42813271284103394
+  windspeed          | True: 15.185714285714282 | Predicted: 10.434618949890137
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1017.3640747070312
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.44729751348495483
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 57.62754821777344
+  tempmin            | True: 65.28571428571429 | Predicted: 41.11614227294922
+  temp               | True: 72.14285714285714 | Predicted: 48.34695053100586
+  dew                | True: 66.44285714285715 | Predicted: 33.32926940917969
+  humidity           | True: 83.64285714285714 | Predicted: 62.362918853759766
+  precip             | True: 0.7211428571428572 | Predicted: 0.926633894443512
+  windspeed          | True: 10.3 | Predicted: 9.626017570495605
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.6981811523438
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.3964170217514038
+
+===============238 days matching===============
+Test Loss: 0.0229, Test MAE: 0.1734
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 59.732627868652344
+  tempmin            | True: 27.32 | Predicted: 40.61991882324219
+  temp               | True: 35.75428571428572 | Predicted: 50.22628402709961
+  dew                | True: -6.6000000000000005 | Predicted: 22.619213104248047
+  humidity           | True: 54.657142857142865 | Predicted: 61.73439407348633
+  precip             | True: 0.006571428571428501 | Predicted: 1.4871658086776733
+  windspeed          | True: 13.457142857142854 | Predicted: 10.675829887390137
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.5789794921875
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4689948856830597
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.89263153076172
+  tempmin            | True: 66.85714285714286 | Predicted: 42.67088317871094
+  temp               | True: 75.28571428571429 | Predicted: 49.84260177612305
+  dew                | True: 62.971428571428575 | Predicted: 34.25764083862305
+  humidity           | True: 67.58571428571429 | Predicted: 61.7914924621582
+  precip             | True: 0.2628571428571428 | Predicted: -0.2582048177719116
+  windspeed          | True: 12.457142857142856 | Predicted: 10.435572624206543
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.0504150390625
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4559444785118103
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.00770568847656
+  tempmin            | True: 16.571428571428573 | Predicted: 42.196067810058594
+  temp               | True: 24.957142857142856 | Predicted: 51.130306243896484
+  dew                | True: 5.871428571428572 | Predicted: 36.577850341796875
+  humidity           | True: 47.52857142857143 | Predicted: 63.53369903564453
+  precip             | True: 0.0 | Predicted: 1.272752285003662
+  windspeed          | True: 10.6 | Predicted: 10.026386260986328
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.352294921875
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4633217751979828
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 60.501094818115234
+  tempmin            | True: 71.67142857142856 | Predicted: 44.12516784667969
+  temp               | True: 75.97142857142856 | Predicted: 51.37715148925781
+  dew                | True: 73.05714285714285 | Predicted: 37.9641227722168
+  humidity           | True: 91.21428571428572 | Predicted: 65.8248291015625
+  precip             | True: 3.1935714285714285 | Predicted: 0.3280981183052063
+  windspeed          | True: 15.185714285714282 | Predicted: 10.314055442810059
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1014.756103515625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4861454367637634
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 57.10333251953125
+  tempmin            | True: 65.28571428571429 | Predicted: 39.228782653808594
+  temp               | True: 72.14285714285714 | Predicted: 47.47017288208008
+  dew                | True: 66.44285714285715 | Predicted: 32.551918029785156
+  humidity           | True: 83.64285714285714 | Predicted: 61.7282829284668
+  precip             | True: 0.7211428571428572 | Predicted: -0.1515616774559021
+  windspeed          | True: 10.3 | Predicted: 9.874850273132324
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1013.4219970703125
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4293084144592285
+
+===============245 days matching===============
+Test Loss: 0.0228, Test MAE: 0.1733
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 49.83896255493164
+  tempmin            | True: 27.32 | Predicted: 34.210914611816406
+  temp               | True: 35.75428571428572 | Predicted: 47.70624923706055
+  dew                | True: -6.6000000000000005 | Predicted: 16.71605110168457
+  humidity           | True: 54.657142857142865 | Predicted: 61.56391906738281
+  precip             | True: 0.006571428571428501 | Predicted: 3.002530097961426
+  windspeed          | True: 13.457142857142854 | Predicted: 10.13090991973877
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.8422241210938
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4101049602031708
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.7606201171875
+  tempmin            | True: 66.85714285714286 | Predicted: 45.08332061767578
+  temp               | True: 75.28571428571429 | Predicted: 53.41503143310547
+  dew                | True: 62.971428571428575 | Predicted: 36.83589172363281
+  humidity           | True: 67.58571428571429 | Predicted: 63.27253341674805
+  precip             | True: 0.2628571428571428 | Predicted: 0.7146490216255188
+  windspeed          | True: 12.457142857142856 | Predicted: 10.173957824707031
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.7260131835938
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4573937654495239
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 60.40172576904297
+  tempmin            | True: 16.571428571428573 | Predicted: 44.463497161865234
+  temp               | True: 24.957142857142856 | Predicted: 51.68281936645508
+  dew                | True: 5.871428571428572 | Predicted: 35.448692321777344
+  humidity           | True: 47.52857142857143 | Predicted: 63.50026321411133
+  precip             | True: 0.0 | Predicted: 0.2648467421531677
+  windspeed          | True: 10.6 | Predicted: 10.037145614624023
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.4642333984375
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4453253746032715
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 66.42232513427734
+  tempmin            | True: 71.67142857142856 | Predicted: 49.98884582519531
+  temp               | True: 75.97142857142856 | Predicted: 57.6947021484375
+  dew                | True: 73.05714285714285 | Predicted: 42.777259826660156
+  humidity           | True: 91.21428571428572 | Predicted: 69.34087371826172
+  precip             | True: 3.1935714285714285 | Predicted: -0.2157679945230484
+  windspeed          | True: 15.185714285714282 | Predicted: 11.170072555541992
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1017.9924926757812
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.5208463072776794
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.56476974487305
+  tempmin            | True: 65.28571428571429 | Predicted: 41.259883880615234
+  temp               | True: 72.14285714285714 | Predicted: 48.86988067626953
+  dew                | True: 66.44285714285715 | Predicted: 32.962276458740234
+  humidity           | True: 83.64285714285714 | Predicted: 62.98331832885742
+  precip             | True: 0.7211428571428572 | Predicted: 0.0611250139772892
+  windspeed          | True: 10.3 | Predicted: 9.941640853881836
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.2882690429688
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.42047932744026184
+
+===============252 days matching===============
+Test Loss: 0.0237, Test MAE: 0.1766
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 66.04986572265625
+  tempmin            | True: 27.32 | Predicted: 47.925865173339844
+  temp               | True: 35.75428571428572 | Predicted: 56.92939376831055
+  dew                | True: -6.6000000000000005 | Predicted: 34.95199966430664
+  humidity           | True: 54.657142857142865 | Predicted: 66.2704086303711
+  precip             | True: 0.006571428571428501 | Predicted: 0.5652186274528503
+  windspeed          | True: 13.457142857142854 | Predicted: 10.3810453414917
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1016.2103271484375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4867008626461029
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 59.906776428222656
+  tempmin            | True: 66.85714285714286 | Predicted: 42.055728912353516
+  temp               | True: 75.28571428571429 | Predicted: 50.10222244262695
+  dew                | True: 62.971428571428575 | Predicted: 33.19869613647461
+  humidity           | True: 67.58571428571429 | Predicted: 62.082523345947266
+  precip             | True: 0.2628571428571428 | Predicted: 0.3958463966846466
+  windspeed          | True: 12.457142857142856 | Predicted: 9.786331176757812
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.2177734375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.40576061606407166
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 59.437400817871094
+  tempmin            | True: 16.571428571428573 | Predicted: 41.44194030761719
+  temp               | True: 24.957142857142856 | Predicted: 50.14075469970703
+  dew                | True: 5.871428571428572 | Predicted: 34.135074615478516
+  humidity           | True: 47.52857142857143 | Predicted: 62.263118743896484
+  precip             | True: 0.0 | Predicted: 0.06301593035459518
+  windspeed          | True: 10.6 | Predicted: 9.889396667480469
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.39501953125
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.41884487867355347
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.253562927246094
+  tempmin            | True: 71.67142857142856 | Predicted: 42.43742370605469
+  temp               | True: 75.97142857142856 | Predicted: 51.705989837646484
+  dew                | True: 73.05714285714285 | Predicted: 38.02447509765625
+  humidity           | True: 91.21428571428572 | Predicted: 65.99068450927734
+  precip             | True: 3.1935714285714285 | Predicted: 0.9524456858634949
+  windspeed          | True: 15.185714285714282 | Predicted: 10.140510559082031
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.1558837890625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4691427946090698
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.4661979675293
+  tempmin            | True: 65.28571428571429 | Predicted: 38.52825164794922
+  temp               | True: 72.14285714285714 | Predicted: 47.99473571777344
+  dew                | True: 66.44285714285715 | Predicted: 31.585460662841797
+  humidity           | True: 83.64285714285714 | Predicted: 62.87498092651367
+  precip             | True: 0.7211428571428572 | Predicted: 0.26336002349853516
+  windspeed          | True: 10.3 | Predicted: 9.801200866699219
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1013.4743041992188
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4161210060119629
+
+===============259 days matching===============
+Test Loss: 0.0227, Test MAE: 0.1734
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 50.850093841552734
+  tempmin            | True: 27.32 | Predicted: 41.66212844848633
+  temp               | True: 35.75428571428572 | Predicted: 43.73116683959961
+  dew                | True: -6.6000000000000005 | Predicted: 15.47401237487793
+  humidity           | True: 54.657142857142865 | Predicted: 59.65121078491211
+  precip             | True: 0.006571428571428501 | Predicted: 0.9339260458946228
+  windspeed          | True: 13.457142857142854 | Predicted: 11.183277130126953
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.3566284179688
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4913073480129242
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 59.81963348388672
+  tempmin            | True: 66.85714285714286 | Predicted: 42.77227020263672
+  temp               | True: 75.28571428571429 | Predicted: 51.00651168823242
+  dew                | True: 62.971428571428575 | Predicted: 35.70747375488281
+  humidity           | True: 67.58571428571429 | Predicted: 59.84454345703125
+  precip             | True: 0.2628571428571428 | Predicted: 0.4329620599746704
+  windspeed          | True: 12.457142857142856 | Predicted: 9.906110763549805
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.68115234375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.44916170835494995
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 63.89933395385742
+  tempmin            | True: 16.571428571428573 | Predicted: 47.345394134521484
+  temp               | True: 24.957142857142856 | Predicted: 54.624488830566406
+  dew                | True: 5.871428571428572 | Predicted: 42.32327651977539
+  humidity           | True: 47.52857142857143 | Predicted: 65.58529663085938
+  precip             | True: 0.0 | Predicted: 0.46863022446632385
+  windspeed          | True: 10.6 | Predicted: 10.53648853302002
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1016.7324829101562
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.496212899684906
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.48066329956055
+  tempmin            | True: 71.67142857142856 | Predicted: 42.891536712646484
+  temp               | True: 75.97142857142856 | Predicted: 60.37458419799805
+  dew                | True: 73.05714285714285 | Predicted: 42.48267364501953
+  humidity           | True: 91.21428571428572 | Predicted: 67.75106048583984
+  precip             | True: 3.1935714285714285 | Predicted: 4.024292469024658
+  windspeed          | True: 15.185714285714282 | Predicted: 11.564729690551758
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1019.3241577148438
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4358481466770172
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 57.91209411621094
+  tempmin            | True: 65.28571428571429 | Predicted: 41.049659729003906
+  temp               | True: 72.14285714285714 | Predicted: 49.03493118286133
+  dew                | True: 66.44285714285715 | Predicted: 34.10447692871094
+  humidity           | True: 83.64285714285714 | Predicted: 63.07163619995117
+  precip             | True: 0.7211428571428572 | Predicted: 0.6516141295433044
+  windspeed          | True: 10.3 | Predicted: 10.094914436340332
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.365478515625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4516717791557312
+
+===============266 days matching===============
+Test Loss: 0.0241, Test MAE: 0.1790
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 54.357154846191406
+  tempmin            | True: 27.32 | Predicted: 42.374210357666016
+  temp               | True: 35.75428571428572 | Predicted: 42.67647171020508
+  dew                | True: -6.6000000000000005 | Predicted: 23.6403865814209
+  humidity           | True: 54.657142857142865 | Predicted: 63.074180603027344
+  precip             | True: 0.006571428571428501 | Predicted: 0.6038413643836975
+  windspeed          | True: 13.457142857142854 | Predicted: 10.14193344116211
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.8384399414062
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.3894595801830292
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.18718338012695
+  tempmin            | True: 66.85714285714286 | Predicted: 44.023380279541016
+  temp               | True: 75.28571428571429 | Predicted: 52.76014709472656
+  dew                | True: 62.971428571428575 | Predicted: 35.56307601928711
+  humidity           | True: 67.58571428571429 | Predicted: 61.575679779052734
+  precip             | True: 0.2628571428571428 | Predicted: 0.06048453226685524
+  windspeed          | True: 12.457142857142856 | Predicted: 10.333076477050781
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.9041748046875
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4397854208946228
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 55.64493942260742
+  tempmin            | True: 16.571428571428573 | Predicted: 39.738990783691406
+  temp               | True: 24.957142857142856 | Predicted: 47.765899658203125
+  dew                | True: 5.871428571428572 | Predicted: 30.27937889099121
+  humidity           | True: 47.52857142857143 | Predicted: 59.03667449951172
+  precip             | True: 0.0 | Predicted: 0.3288516104221344
+  windspeed          | True: 10.6 | Predicted: 9.856490135192871
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.5996704101562
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.37678563594818115
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 64.40763854980469
+  tempmin            | True: 71.67142857142856 | Predicted: 47.59312057495117
+  temp               | True: 75.97142857142856 | Predicted: 55.28009033203125
+  dew                | True: 73.05714285714285 | Predicted: 40.2468147277832
+  humidity           | True: 91.21428571428572 | Predicted: 67.4205322265625
+  precip             | True: 3.1935714285714285 | Predicted: -0.7253680229187012
+  windspeed          | True: 15.185714285714282 | Predicted: 11.30723762512207
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1017.115478515625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.48911163210868835
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.37290954589844
+  tempmin            | True: 65.28571428571429 | Predicted: 42.00977325439453
+  temp               | True: 72.14285714285714 | Predicted: 49.182132720947266
+  dew                | True: 66.44285714285715 | Predicted: 32.673828125
+  humidity           | True: 83.64285714285714 | Predicted: 62.10907745361328
+  precip             | True: 0.7211428571428572 | Predicted: 0.26143917441368103
+  windspeed          | True: 10.3 | Predicted: 10.385767936706543
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.2484130859375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4176589548587799
+
+===============273 days matching===============
+Test Loss: 0.0238, Test MAE: 0.1769
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 58.97706604003906
+  tempmin            | True: 27.32 | Predicted: 41.82484817504883
+  temp               | True: 35.75428571428572 | Predicted: 53.26008224487305
+  dew                | True: -6.6000000000000005 | Predicted: 25.26405143737793
+  humidity           | True: 54.657142857142865 | Predicted: 60.057777404785156
+  precip             | True: 0.006571428571428501 | Predicted: 0.7221682667732239
+  windspeed          | True: 13.457142857142854 | Predicted: 9.49911880493164
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1013.1383666992188
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4220009446144104
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.71189880371094
+  tempmin            | True: 66.85714285714286 | Predicted: 44.48096466064453
+  temp               | True: 75.28571428571429 | Predicted: 53.49517822265625
+  dew                | True: 62.971428571428575 | Predicted: 35.40974044799805
+  humidity           | True: 67.58571428571429 | Predicted: 62.72389602661133
+  precip             | True: 0.2628571428571428 | Predicted: -0.10085134953260422
+  windspeed          | True: 12.457142857142856 | Predicted: 10.125640869140625
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.4605102539062
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.45911136269569397
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.42215347290039
+  tempmin            | True: 16.571428571428573 | Predicted: 41.13288497924805
+  temp               | True: 24.957142857142856 | Predicted: 49.963951110839844
+  dew                | True: 5.871428571428572 | Predicted: 33.547088623046875
+  humidity           | True: 47.52857142857143 | Predicted: 61.87356185913086
+  precip             | True: 0.0 | Predicted: -0.2878079116344452
+  windspeed          | True: 10.6 | Predicted: 9.94078254699707
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.7513427734375
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.43618375062942505
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.57928466796875
+  tempmin            | True: 71.67142857142856 | Predicted: 44.93230056762695
+  temp               | True: 75.97142857142856 | Predicted: 52.911582946777344
+  dew                | True: 73.05714285714285 | Predicted: 40.18788528442383
+  humidity           | True: 91.21428571428572 | Predicted: 66.17438507080078
+  precip             | True: 3.1935714285714285 | Predicted: -0.0890856459736824
+  windspeed          | True: 15.185714285714282 | Predicted: 10.491223335266113
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.206298828125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.49100562930107117
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 59.21660232543945
+  tempmin            | True: 65.28571428571429 | Predicted: 41.87495803833008
+  temp               | True: 72.14285714285714 | Predicted: 50.24913024902344
+  dew                | True: 66.44285714285715 | Predicted: 36.513553619384766
+  humidity           | True: 83.64285714285714 | Predicted: 63.79680252075195
+  precip             | True: 0.7211428571428572 | Predicted: 0.1749817132949829
+  windspeed          | True: 10.3 | Predicted: 10.204584121704102
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.072021484375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.45560750365257263
+
+===============280 days matching===============
+Test Loss: 0.0237, Test MAE: 0.1779
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.81821823120117
+  tempmin            | True: 27.32 | Predicted: 42.553226470947266
+  temp               | True: 35.75428571428572 | Predicted: 52.728206634521484
+  dew                | True: -6.6000000000000005 | Predicted: 25.759096145629883
+  humidity           | True: 54.657142857142865 | Predicted: 66.79056549072266
+  precip             | True: 0.006571428571428501 | Predicted: 3.363312005996704
+  windspeed          | True: 13.457142857142854 | Predicted: 11.930790901184082
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1016.5189208984375
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4782271981239319
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 61.264034271240234
+  tempmin            | True: 66.85714285714286 | Predicted: 45.03750228881836
+  temp               | True: 75.28571428571429 | Predicted: 53.54002380371094
+  dew                | True: 62.971428571428575 | Predicted: 41.18185806274414
+  humidity           | True: 67.58571428571429 | Predicted: 61.599365234375
+  precip             | True: 0.2628571428571428 | Predicted: -0.7046715617179871
+  windspeed          | True: 12.457142857142856 | Predicted: 10.20526123046875
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.4636840820312
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.464827299118042
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 56.403480529785156
+  tempmin            | True: 16.571428571428573 | Predicted: 39.302825927734375
+  temp               | True: 24.957142857142856 | Predicted: 47.9429817199707
+  dew                | True: 5.871428571428572 | Predicted: 33.60161209106445
+  humidity           | True: 47.52857142857143 | Predicted: 59.088157653808594
+  precip             | True: 0.0 | Predicted: -0.5859439373016357
+  windspeed          | True: 10.6 | Predicted: 9.718350410461426
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1013.4929809570312
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4184434115886688
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 61.98371124267578
+  tempmin            | True: 71.67142857142856 | Predicted: 42.25670623779297
+  temp               | True: 75.97142857142856 | Predicted: 52.110260009765625
+  dew                | True: 73.05714285714285 | Predicted: 38.063926696777344
+  humidity           | True: 91.21428571428572 | Predicted: 64.05469512939453
+  precip             | True: 3.1935714285714285 | Predicted: -0.7633839845657349
+  windspeed          | True: 15.185714285714282 | Predicted: 10.315528869628906
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.3798828125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.461469441652298
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 61.36785888671875
+  tempmin            | True: 65.28571428571429 | Predicted: 41.48149108886719
+  temp               | True: 72.14285714285714 | Predicted: 51.96510696411133
+  dew                | True: 66.44285714285715 | Predicted: 38.56734085083008
+  humidity           | True: 83.64285714285714 | Predicted: 63.28693389892578
+  precip             | True: 0.7211428571428572 | Predicted: -0.6702448725700378
+  windspeed          | True: 10.3 | Predicted: 10.208964347839355
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.0609130859375
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.45871254801750183
+
+===============287 days matching===============
+Test Loss: 0.0237, Test MAE: 0.1760
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 58.729736328125
+  tempmin            | True: 27.32 | Predicted: 43.13400650024414
+  temp               | True: 35.75428571428572 | Predicted: 54.359161376953125
+  dew                | True: -6.6000000000000005 | Predicted: 26.096290588378906
+  humidity           | True: 54.657142857142865 | Predicted: 62.00968551635742
+  precip             | True: 0.006571428571428501 | Predicted: 0.35062989592552185
+  windspeed          | True: 13.457142857142854 | Predicted: 10.078786849975586
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.3916625976562
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.44320037961006165
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.87455749511719
+  tempmin            | True: 66.85714285714286 | Predicted: 45.577266693115234
+  temp               | True: 75.28571428571429 | Predicted: 55.098087310791016
+  dew                | True: 62.971428571428575 | Predicted: 33.34954833984375
+  humidity           | True: 67.58571428571429 | Predicted: 62.407161712646484
+  precip             | True: 0.2628571428571428 | Predicted: 0.35830268263816833
+  windspeed          | True: 12.457142857142856 | Predicted: 9.893096923828125
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1016.1573486328125
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4556178152561188
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.506195068359375
+  tempmin            | True: 16.571428571428573 | Predicted: 41.916446685791016
+  temp               | True: 24.957142857142856 | Predicted: 51.68170166015625
+  dew                | True: 5.871428571428572 | Predicted: 29.124006271362305
+  humidity           | True: 47.52857142857143 | Predicted: 62.196388244628906
+  precip             | True: 0.0 | Predicted: 0.1517838090658188
+  windspeed          | True: 10.6 | Predicted: 9.645528793334961
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.9244384765625
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42597252130508423
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.33660125732422
+  tempmin            | True: 71.67142857142856 | Predicted: 44.26113510131836
+  temp               | True: 75.97142857142856 | Predicted: 54.97385787963867
+  dew                | True: 73.05714285714285 | Predicted: 36.548423767089844
+  humidity           | True: 91.21428571428572 | Predicted: 65.71432495117188
+  precip             | True: 3.1935714285714285 | Predicted: 0.8184062838554382
+  windspeed          | True: 15.185714285714282 | Predicted: 9.835966110229492
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.815673828125
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.483511745929718
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 58.52823257446289
+  tempmin            | True: 65.28571428571429 | Predicted: 39.130348205566406
+  temp               | True: 72.14285714285714 | Predicted: 50.306121826171875
+  dew                | True: 66.44285714285715 | Predicted: 29.676321029663086
+  humidity           | True: 83.64285714285714 | Predicted: 62.544979095458984
+  precip             | True: 0.7211428571428572 | Predicted: 0.45413100719451904
+  windspeed          | True: 10.3 | Predicted: 9.459944725036621
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.3084106445312
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4268152117729187
+
+===============294 days matching===============
+Test Loss: 0.0242, Test MAE: 0.1778
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 56.38115692138672
+  tempmin            | True: 27.32 | Predicted: 42.273094177246094
+  temp               | True: 35.75428571428572 | Predicted: 50.661983489990234
+  dew                | True: -6.6000000000000005 | Predicted: 28.18646812438965
+  humidity           | True: 54.657142857142865 | Predicted: 61.15394592285156
+  precip             | True: 0.006571428571428501 | Predicted: -0.2081127166748047
+  windspeed          | True: 13.457142857142854 | Predicted: 9.729629516601562
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1014.6876831054688
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4125503599643707
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 58.57915115356445
+  tempmin            | True: 66.85714285714286 | Predicted: 43.83428955078125
+  temp               | True: 75.28571428571429 | Predicted: 49.29030227661133
+  dew                | True: 62.971428571428575 | Predicted: 33.989681243896484
+  humidity           | True: 67.58571428571429 | Predicted: 61.165313720703125
+  precip             | True: 0.2628571428571428 | Predicted: 0.4743204116821289
+  windspeed          | True: 12.457142857142856 | Predicted: 9.737462043762207
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.9711303710938
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4286060035228729
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 56.55884552001953
+  tempmin            | True: 16.571428571428573 | Predicted: 42.4055061340332
+  temp               | True: 24.957142857142856 | Predicted: 49.080841064453125
+  dew                | True: 5.871428571428572 | Predicted: 33.85704040527344
+  humidity           | True: 47.52857142857143 | Predicted: 62.85679244995117
+  precip             | True: 0.0 | Predicted: 0.5017432570457458
+  windspeed          | True: 10.6 | Predicted: 9.589205741882324
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.5380859375
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4414975643157959
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 59.60329055786133
+  tempmin            | True: 71.67142857142856 | Predicted: 44.7996826171875
+  temp               | True: 75.97142857142856 | Predicted: 52.37725067138672
+  dew                | True: 73.05714285714285 | Predicted: 39.79517364501953
+  humidity           | True: 91.21428571428572 | Predicted: 65.99400329589844
+  precip             | True: 3.1935714285714285 | Predicted: 0.02077217400074005
+  windspeed          | True: 15.185714285714282 | Predicted: 10.103586196899414
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.5990600585938
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4716377556324005
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 55.0408935546875
+  tempmin            | True: 65.28571428571429 | Predicted: 41.244441986083984
+  temp               | True: 72.14285714285714 | Predicted: 48.97441864013672
+  dew                | True: 66.44285714285715 | Predicted: 32.987632751464844
+  humidity           | True: 83.64285714285714 | Predicted: 63.9663200378418
+  precip             | True: 0.7211428571428572 | Predicted: 0.024928074330091476
+  windspeed          | True: 10.3 | Predicted: 9.532129287719727
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.1830444335938
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.43417954444885254
+
+===============301 days matching===============
+Test Loss: 0.0233, Test MAE: 0.1756
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 57.62660598754883
+  tempmin            | True: 27.32 | Predicted: 41.65675354003906
+  temp               | True: 35.75428571428572 | Predicted: 48.62394332885742
+  dew                | True: -6.6000000000000005 | Predicted: 27.529237747192383
+  humidity           | True: 54.657142857142865 | Predicted: 61.48661804199219
+  precip             | True: 0.006571428571428501 | Predicted: 1.5822643041610718
+  windspeed          | True: 13.457142857142854 | Predicted: 10.38884162902832
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.1903076171875
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.42569634318351746
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 62.2623405456543
+  tempmin            | True: 66.85714285714286 | Predicted: 42.605995178222656
+  temp               | True: 75.28571428571429 | Predicted: 52.56599044799805
+  dew                | True: 62.971428571428575 | Predicted: 35.70775604248047
+  humidity           | True: 67.58571428571429 | Predicted: 63.00484848022461
+  precip             | True: 0.2628571428571428 | Predicted: 0.9224905371665955
+  windspeed          | True: 12.457142857142856 | Predicted: 10.39660358428955
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1016.6536865234375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4724714457988739
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 63.31150817871094
+  tempmin            | True: 16.571428571428573 | Predicted: 44.16305923461914
+  temp               | True: 24.957142857142856 | Predicted: 53.90957260131836
+  dew                | True: 5.871428571428572 | Predicted: 37.89388656616211
+  humidity           | True: 47.52857142857143 | Predicted: 66.60389709472656
+  precip             | True: 0.0 | Predicted: 0.7810648679733276
+  windspeed          | True: 10.6 | Predicted: 10.478361129760742
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1016.4304809570312
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.490273654460907
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 61.21955490112305
+  tempmin            | True: 71.67142857142856 | Predicted: 41.908199310302734
+  temp               | True: 75.97142857142856 | Predicted: 51.19168472290039
+  dew                | True: 73.05714285714285 | Predicted: 35.42778778076172
+  humidity           | True: 91.21428571428572 | Predicted: 65.74147033691406
+  precip             | True: 3.1935714285714285 | Predicted: 0.7997649312019348
+  windspeed          | True: 15.185714285714282 | Predicted: 10.458022117614746
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.8076782226562
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4723721146583557
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.377662658691406
+  tempmin            | True: 65.28571428571429 | Predicted: 40.02703094482422
+  temp               | True: 72.14285714285714 | Predicted: 49.95520782470703
+  dew                | True: 66.44285714285715 | Predicted: 33.930721282958984
+  humidity           | True: 83.64285714285714 | Predicted: 64.41910552978516
+  precip             | True: 0.7211428571428572 | Predicted: 0.9115663766860962
+  windspeed          | True: 10.3 | Predicted: 10.243158340454102
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.2744140625
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4603210389614105
+
+===============308 days matching===============
+Test Loss: 0.0232, Test MAE: 0.1741
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 44.111428571428576 | Predicted: 62.13725280761719
+  tempmin            | True: 27.32 | Predicted: 42.02693176269531
+  temp               | True: 35.75428571428572 | Predicted: 51.55232620239258
+  dew                | True: -6.6000000000000005 | Predicted: 22.75266456604004
+  humidity           | True: 54.657142857142865 | Predicted: 63.541297912597656
+  precip             | True: 0.006571428571428501 | Predicted: 1.852860927581787
+  windspeed          | True: 13.457142857142854 | Predicted: 10.888683319091797
+  sealevelpressure   | True: 1024.1285714285716 | Predicted: 1015.7245483398438
+  moonphase          | True: 0.4957142857142857 | Predicted: 0.4761431813240051
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.07981491088867
+  tempmin            | True: 66.85714285714286 | Predicted: 41.71854019165039
+  temp               | True: 75.28571428571429 | Predicted: 49.19878005981445
+  dew                | True: 62.971428571428575 | Predicted: 33.54546356201172
+  humidity           | True: 67.58571428571429 | Predicted: 62.139495849609375
+  precip             | True: 0.2628571428571428 | Predicted: 0.38221222162246704
+  windspeed          | True: 12.457142857142856 | Predicted: 10.11294937133789
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1014.7376708984375
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.44118309020996094
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 58.92254638671875
+  tempmin            | True: 16.571428571428573 | Predicted: 40.84442901611328
+  temp               | True: 24.957142857142856 | Predicted: 48.11406707763672
+  dew                | True: 5.871428571428572 | Predicted: 32.57571792602539
+  humidity           | True: 47.52857142857143 | Predicted: 62.12745666503906
+  precip             | True: 0.0 | Predicted: 0.21622928977012634
+  windspeed          | True: 10.6 | Predicted: 9.974431037902832
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.4230346679688
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.4162433445453644
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 63.09941101074219
+  tempmin            | True: 71.67142857142856 | Predicted: 44.854923248291016
+  temp               | True: 75.97142857142856 | Predicted: 52.2907829284668
+  dew                | True: 73.05714285714285 | Predicted: 38.76982116699219
+  humidity           | True: 91.21428571428572 | Predicted: 66.1084976196289
+  precip             | True: 3.1935714285714285 | Predicted: -0.08796031028032303
+  windspeed          | True: 15.185714285714282 | Predicted: 10.370284080505371
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1015.799072265625
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.46980372071266174
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 60.93244171142578
+  tempmin            | True: 65.28571428571429 | Predicted: 42.97259521484375
+  temp               | True: 72.14285714285714 | Predicted: 50.30982971191406
+  dew                | True: 66.44285714285715 | Predicted: 35.64773178100586
+  humidity           | True: 83.64285714285714 | Predicted: 64.26499938964844
+  precip             | True: 0.7211428571428572 | Predicted: -0.03951212018728256
+  windspeed          | True: 10.3 | Predicted: 10.100706100463867
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.9158935546875
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.44395074248313904
+
+===============315 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1767
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 41.385714285714286 | Predicted: 59.1815071105957
+  tempmin            | True: 26.13714285714286 | Predicted: 43.775062561035156
+  temp               | True: 33.67142857142857 | Predicted: 54.41396713256836
+  dew                | True: -8.171428571428573 | Predicted: 24.02293586730957
+  humidity           | True: 53.07142857142857 | Predicted: 61.173301696777344
+  precip             | True: 0.1884285714285714 | Predicted: 1.2739735841751099
+  windspeed          | True: 15.928571428571429 | Predicted: 10.636990547180176
+  sealevelpressure   | True: 1026.1142857142856 | Predicted: 1012.1173706054688
+  moonphase          | True: 0.2571428571428571 | Predicted: 0.4047333896160126
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 60.714141845703125
+  tempmin            | True: 66.85714285714286 | Predicted: 44.52742385864258
+  temp               | True: 75.28571428571429 | Predicted: 54.183170318603516
+  dew                | True: 62.971428571428575 | Predicted: 34.57358932495117
+  humidity           | True: 67.58571428571429 | Predicted: 62.848941802978516
+  precip             | True: 0.2628571428571428 | Predicted: -0.6403190493583679
+  windspeed          | True: 12.457142857142856 | Predicted: 9.835115432739258
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.22607421875
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.44172465801239014
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 56.48075866699219
+  tempmin            | True: 16.571428571428573 | Predicted: 40.03119659423828
+  temp               | True: 24.957142857142856 | Predicted: 48.45218276977539
+  dew                | True: 5.871428571428572 | Predicted: 33.25217819213867
+  humidity           | True: 47.52857142857143 | Predicted: 61.4330940246582
+  precip             | True: 0.0 | Predicted: -0.46971890330314636
+  windspeed          | True: 10.6 | Predicted: 9.43102741241455
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1014.1075439453125
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.39502403140068054
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 65.20487213134766
+  tempmin            | True: 71.67142857142856 | Predicted: 46.34273910522461
+  temp               | True: 75.97142857142856 | Predicted: 54.98451232910156
+  dew                | True: 73.05714285714285 | Predicted: 42.022159576416016
+  humidity           | True: 91.21428571428572 | Predicted: 67.48284149169922
+  precip             | True: 3.1935714285714285 | Predicted: -0.5488033890724182
+  windspeed          | True: 15.185714285714282 | Predicted: 10.342132568359375
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.30224609375
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.47020602226257324
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 61.3406867980957
+  tempmin            | True: 65.28571428571429 | Predicted: 43.06186294555664
+  temp               | True: 72.14285714285714 | Predicted: 52.59737777709961
+  dew                | True: 66.44285714285715 | Predicted: 37.32169723510742
+  humidity           | True: 83.64285714285714 | Predicted: 64.71638488769531
+  precip             | True: 0.7211428571428572 | Predicted: -0.1202920451760292
+  windspeed          | True: 10.3 | Predicted: 9.968586921691895
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1014.7958374023438
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4344818890094757
+
+===============322 days matching===============
+Test Loss: 0.0228, Test MAE: 0.1729
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 57.79142857142856 | Predicted: 63.432159423828125
+  tempmin            | True: 41.565714285714286 | Predicted: 45.29944610595703
+  temp               | True: 49.408571428571435 | Predicted: 53.02788543701172
+  dew                | True: 1.9142857142857144 | Predicted: 30.245935440063477
+  humidity           | True: 60.54285714285713 | Predicted: 61.354373931884766
+  precip             | True: 0.012571428571428503 | Predicted: 0.5641093254089355
+  windspeed          | True: 13.328571428571427 | Predicted: 10.464010238647461
+  sealevelpressure   | True: 1019.5857142857144 | Predicted: 1015.31201171875
+  moonphase          | True: 0.4357142857142856 | Predicted: 0.40749120712280273
+
+Sample 2:
+  tempmax            | True: 83.87142857142858 | Predicted: 58.729434967041016
+  tempmin            | True: 66.85714285714286 | Predicted: 40.77802276611328
+  temp               | True: 75.28571428571429 | Predicted: 51.889442443847656
+  dew                | True: 62.971428571428575 | Predicted: 34.26139450073242
+  humidity           | True: 67.58571428571429 | Predicted: 61.3644905090332
+  precip             | True: 0.2628571428571428 | Predicted: 0.14116424322128296
+  windspeed          | True: 12.457142857142856 | Predicted: 10.209285736083984
+  sealevelpressure   | True: 1004.9714285714286 | Predicted: 1015.4034423828125
+  moonphase          | True: 0.5971428571428571 | Predicted: 0.4279823899269104
+
+Sample 3:
+  tempmax            | True: 33.1 | Predicted: 57.33660125732422
+  tempmin            | True: 16.571428571428573 | Predicted: 39.39115524291992
+  temp               | True: 24.957142857142856 | Predicted: 49.882686614990234
+  dew                | True: 5.871428571428572 | Predicted: 33.88226318359375
+  humidity           | True: 47.52857142857143 | Predicted: 62.52383041381836
+  precip             | True: 0.0 | Predicted: 0.2947225272655487
+  windspeed          | True: 10.6 | Predicted: 9.934391021728516
+  sealevelpressure   | True: 1025.9714285714283 | Predicted: 1015.1636962890625
+  moonphase          | True: 0.6657142857142857 | Predicted: 0.42042386531829834
+
+Sample 4:
+  tempmax            | True: 80.67142857142859 | Predicted: 62.78336715698242
+  tempmin            | True: 71.67142857142856 | Predicted: 44.53694534301758
+  temp               | True: 75.97142857142856 | Predicted: 54.95928955078125
+  dew                | True: 73.05714285714285 | Predicted: 40.48548126220703
+  humidity           | True: 91.21428571428572 | Predicted: 66.2641372680664
+  precip             | True: 3.1935714285714285 | Predicted: 0.5941436290740967
+  windspeed          | True: 15.185714285714283 | Predicted: 10.675320625305176
+  sealevelpressure   | True: 1006.7285714285716 | Predicted: 1016.5020141601562
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.4761834740638733
+
+Sample 5:
+  tempmax            | True: 79.74285714285715 | Predicted: 62.100460052490234
+  tempmin            | True: 65.28571428571429 | Predicted: 44.57062530517578
+  temp               | True: 72.14285714285714 | Predicted: 53.90781021118164
+  dew                | True: 66.44285714285715 | Predicted: 39.52980422973633
+  humidity           | True: 83.64285714285714 | Predicted: 65.38117218017578
+  precip             | True: 0.7211428571428572 | Predicted: 0.7688320875167847
+  windspeed          | True: 10.3 | Predicted: 10.434518814086914
+  sealevelpressure   | True: 1011.0857142857144 | Predicted: 1015.9415893554688
+  moonphase          | True: 0.1957142857142857 | Predicted: 0.4575081169605255
+
+===============329 days matching===============
+Test Loss: 0.0224, Test MAE: 0.1704
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 41.54285714285714 | Predicted: 63.75571060180664
+  tempmin            | True: 24.857142857142858 | Predicted: 44.682430267333984
+  temp               | True: 33.114285714285714 | Predicted: 53.32197952270508
+  dew                | True: 23.37142857142857 | Predicted: 42.602294921875
+  humidity           | True: 70.04285714285714 | Predicted: 66.679931640625
+  precip             | True: 0.0 | Predicted: 0.36430519819259644
+  windspeed          | True: 10.314285714285717 | Predicted: 10.450902938842773
+  sealevelpressure   | True: 1022.4142857142856 | Predicted: 1015.8331298828125
+  moonphase          | True: 0.1999999999999999 | Predicted: 0.47400060296058655
+
+Sample 2:
+  tempmax            | True: 63.21428571428571 | Predicted: 67.46176147460938
+  tempmin            | True: 46.12857142857143 | Predicted: 48.5571403503418
+  temp               | True: 54.12857142857144 | Predicted: 57.012115478515625
+  dew                | True: 37.39999999999999 | Predicted: 44.62092208862305
+  humidity           | True: 57.300000000000004 | Predicted: 68.24774932861328
+  precip             | True: 0.0647142857142857 | Predicted: 0.45520302653312683
+  windspeed          | True: 14.342857142857143 | Predicted: 10.852771759033203
+  sealevelpressure   | True: 1013.342857142857 | Predicted: 1016.5202026367188
+  moonphase          | True: 0.4814285714285714 | Predicted: 0.49500757455825806
+
+Sample 3:
+  tempmax            | True: 57.55714285714286 | Predicted: 58.5284423828125
+  tempmin            | True: 36.81428571428571 | Predicted: 43.63746643066406
+  temp               | True: 47.0 | Predicted: 51.140655517578125
+  dew                | True: 33.114285714285714 | Predicted: 23.089340209960938
+  humidity           | True: 62.07142857142858 | Predicted: 61.11166763305664
+  precip             | True: 0.0 | Predicted: 0.06422632932662964
+  windspeed          | True: 6.185714285714285 | Predicted: 9.882096290588379
+  sealevelpressure   | True: 1024.357142857143 | Predicted: 1014.617431640625
+  moonphase          | True: 0.6328571428571428 | Predicted: 0.41647177934646606
+
+Sample 4:
+  tempmax            | True: 74.17142857142856 | Predicted: 64.83961486816406
+  tempmin            | True: 54.67142857142858 | Predicted: 46.612762451171875
+  temp               | True: 64.27142857142857 | Predicted: 56.909210205078125
+  dew                | True: 48.142857142857146 | Predicted: 37.90950012207031
+  humidity           | True: 58.42857142857143 | Predicted: 63.747467041015625
+  precip             | True: 0.0 | Predicted: -0.2676618993282318
+  windspeed          | True: 8.842857142857143 | Predicted: 10.386337280273438
+  sealevelpressure   | True: 1016.8714285714286 | Predicted: 1015.044921875
+  moonphase          | True: 0.5728571428571428 | Predicted: 0.43405985832214355
+
+Sample 5:
+  tempmax            | True: 69.39999999999999 | Predicted: 60.085906982421875
+  tempmin            | True: 45.5 | Predicted: 41.76130676269531
+  temp               | True: 57.15714285714286 | Predicted: 52.939151763916016
+  dew                | True: 33.214285714285715 | Predicted: 34.69728088378906
+  humidity           | True: 45.642857142857146 | Predicted: 62.384490966796875
+  precip             | True: 0.0645714285714285 | Predicted: -0.025074822828173637
+  windspeed          | True: 12.457142857142856 | Predicted: 10.066802978515625
+  sealevelpressure   | True: 1016.8857142857142 | Predicted: 1015.028564453125
+  moonphase          | True: 0.1428571428571428 | Predicted: 0.4268271028995514
+
+===============336 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1732
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 81.82857142857142 | Predicted: 61.41745376586914
+  tempmin            | True: 66.04285714285714 | Predicted: 42.236515045166016
+  temp               | True: 73.27142857142857 | Predicted: 51.93106460571289
+  dew                | True: 60.51428571428572 | Predicted: 40.16001510620117
+  humidity           | True: 66.01428571428572 | Predicted: 65.70503234863281
+  precip             | True: 0.0394285714285714 | Predicted: 0.6619413495063782
+  windspeed          | True: 8.82857142857143 | Predicted: 10.070832252502441
+  sealevelpressure   | True: 1007.7714285714284 | Predicted: 1015.1731567382812
+  moonphase          | True: 0.76 | Predicted: 0.4641541540622711
+
+Sample 2:
+  tempmax            | True: 84.77142857142857 | Predicted: 58.3953971862793
+  tempmin            | True: 69.71428571428571 | Predicted: 41.72601318359375
+  temp               | True: 76.78571428571429 | Predicted: 49.979557037353516
+  dew                | True: 63.1 | Predicted: 28.65940284729004
+  humidity           | True: 64.45714285714286 | Predicted: 61.58084487915039
+  precip             | True: 0.0225714285714285 | Predicted: 0.9389278888702393
+  windspeed          | True: 6.085714285714286 | Predicted: 9.63902759552002
+  sealevelpressure   | True: 1004.9 | Predicted: 1014.4244995117188
+  moonphase          | True: 0.8157142857142857 | Predicted: 0.42299750447273254
+
+Sample 3:
+  tempmax            | True: 61.77142857142857 | Predicted: 61.766841888427734
+  tempmin            | True: 44.81428571428571 | Predicted: 42.22085189819336
+  temp               | True: 53.82857142857143 | Predicted: 52.35490417480469
+  dew                | True: 41.128571428571426 | Predicted: 40.575218200683594
+  humidity           | True: 64.57142857142857 | Predicted: 65.79768371582031
+  precip             | True: 0.149 | Predicted: 0.525601863861084
+  windspeed          | True: 9.257142857142856 | Predicted: 10.099350929260254
+  sealevelpressure   | True: 1020.3142857142856 | Predicted: 1015.3536987304688
+  moonphase          | True: 0.53 | Predicted: 0.4652049243450165
+
+Sample 4:
+  tempmax            | True: 81.85714285714286 | Predicted: 62.872066497802734
+  tempmin            | True: 71.18571428571428 | Predicted: 44.813087463378906
+  temp               | True: 76.02857142857144 | Predicted: 53.3829231262207
+  dew                | True: 70.11428571428571 | Predicted: 40.36256790161133
+  humidity           | True: 82.7 | Predicted: 64.49603271484375
+  precip             | True: 1.6032857142857146 | Predicted: 0.3213416039943695
+  windspeed          | True: 10.357142857142858 | Predicted: 10.01535415649414
+  sealevelpressure   | True: 1011.7142857142856 | Predicted: 1015.8464965820312
+  moonphase          | True: 0.1985714285714286 | Predicted: 0.4746835231781006
+
+Sample 5:
+  tempmax            | True: 25.714285714285715 | Predicted: 60.1480712890625
+  tempmin            | True: 7.1000000000000005 | Predicted: 41.93988037109375
+  temp               | True: 17.1 | Predicted: 50.70277404785156
+  dew                | True: 6.257142857142859 | Predicted: 37.11872100830078
+  humidity           | True: 63.84285714285715 | Predicted: 63.00566101074219
+  precip             | True: 0.0 | Predicted: -0.07358662784099579
+  windspeed          | True: 7.614285714285714 | Predicted: 9.790916442871094
+  sealevelpressure   | True: 1028.5285714285717 | Predicted: 1015.0917358398438
+  moonphase          | True: 0.5328571428571428 | Predicted: 0.4488876461982727
+
+===============343 days matching===============
+Test Loss: 0.0234, Test MAE: 0.1749
+Sample Predictions:
+Sample 1:
+  tempmax            | True: 81.82857142857142 | Predicted: 59.75358581542969
+  tempmin            | True: 66.04285714285714 | Predicted: 43.736141204833984
+  temp               | True: 73.27142857142857 | Predicted: 50.939727783203125
+  dew                | True: 60.51428571428572 | Predicted: 39.75935363769531
+  humidity           | True: 66.01428571428572 | Predicted: 65.88365936279297
+  precip             | True: 0.0394285714285714 | Predicted: -0.03862748667597771
+  windspeed          | True: 8.82857142857143 | Predicted: 10.274040222167969
+  sealevelpressure   | True: 1007.7714285714284 | Predicted: 1014.6718139648438
+  moonphase          | True: 0.76 | Predicted: 0.45156413316726685
+
+Sample 2:
+  tempmax            | True: 84.77142857142857 | Predicted: 80.27657318115234
+  tempmin            | True: 69.71428571428571 | Predicted: 62.49059295654297
+  temp               | True: 76.78571428571429 | Predicted: 67.00846099853516
+  dew                | True: 63.1 | Predicted: 50.30974578857422
+  humidity           | True: 64.45714285714286 | Predicted: 72.67325592041016
+  precip             | True: 0.0225714285714285 | Predicted: -0.8448907732963562
+  windspeed          | True: 6.085714285714286 | Predicted: 12.239450454711914
+  sealevelpressure   | True: 1004.9 | Predicted: 1020.725341796875
+  moonphase          | True: 0.8157142857142857 | Predicted: 0.6501787304878235
+
+Sample 3:
+  tempmax            | True: 61.77142857142857 | Predicted: 60.510643005371094
+  tempmin            | True: 44.81428571428571 | Predicted: 43.107200622558594
+  temp               | True: 53.82857142857143 | Predicted: 51.91403579711914
+  dew                | True: 41.128571428571426 | Predicted: 41.012081146240234
+  humidity           | True: 64.57142857142857 | Predicted: 66.56022644042969
+  precip             | True: 0.149 | Predicted: -0.09072929620742798
+  windspeed          | True: 9.257142857142856 | Predicted: 10.497598648071289
+  sealevelpressure   | True: 1020.3142857142856 | Predicted: 1014.701904296875
+  moonphase          | True: 0.53 | Predicted: 0.4620305597782135
+
+Sample 4:
+  tempmax            | True: 81.85714285714286 | Predicted: 60.15028381347656
+  tempmin            | True: 71.18571428571428 | Predicted: 43.826595306396484
+  temp               | True: 76.02857142857144 | Predicted: 51.55012130737305
+  dew                | True: 70.11428571428571 | Predicted: 41.02012634277344
+  humidity           | True: 82.7 | Predicted: 64.11177062988281
+  precip             | True: 1.6032857142857146 | Predicted: 0.8220996260643005
+  windspeed          | True: 10.357142857142858 | Predicted: 10.2255220413208
+  sealevelpressure   | True: 1011.7142857142856 | Predicted: 1015.3084716796875
+  moonphase          | True: 0.1985714285714286 | Predicted: 0.44437384605407715
+
+Sample 5:
+  tempmax            | True: 25.714285714285715 | Predicted: 57.594818115234375
+  tempmin            | True: 7.1000000000000005 | Predicted: 41.68605422973633
+  temp               | True: 17.1 | Predicted: 48.71403884887695
+  dew                | True: 6.257142857142859 | Predicted: 36.90910720825195
+  humidity           | True: 63.84285714285715 | Predicted: 63.346492767333984
+  precip             | True: 0.0 | Predicted: 0.2764135003089905
+  windspeed          | True: 7.614285714285714 | Predicted: 9.899372100830078
+  sealevelpressure   | True: 1028.5285714285717 | Predicted: 1014.621826171875
+  moonphase          | True: 0.5328571428571428 | Predicted: 0.4223947823047638
+
+best model is 168
+Test Loss: 0.0223, Test MAE: 0.1722
