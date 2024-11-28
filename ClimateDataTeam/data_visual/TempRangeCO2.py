@@ -48,4 +48,3 @@ ax1.legend(loc='upper left')
 ax2.legend(loc='upper right')
 fig.tight_layout()
 plt.show()
-
