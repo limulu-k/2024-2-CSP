@@ -325,36 +325,41 @@ model = Sequential([
 
   - beta == 1.0
 
+    - RMSE: 9.4645 
+
+    - MAE: 7.4225
+
+
     ![image-20241205093929317](assets/image-20241205093929317.png)
-  
+
   - beta == 2.0
-  
+
     - RMSE: 7.9794 
     - MAE: 6.6825
-  
+
     ![image-20241205094510130](assets/image-20241205094510130.png)
-  
+
   - beta == 8.0
-  
+
     - RMSE: 10.4185 
     - MAE: 8.3941
-  
+
     ![image-20241205090853813](assets/image-20241205090853813.png)
-  
+
   - beta == 16
-  
+
     - RMSE: 7.9794 
     - MAE: 6.6825
-  
+
     ![image-20241205094734501](assets/image-20241205094734501.png)
-  
+
   - beta == 32
-  
+
     - RMSE: 8.9354 
     - MAE: 7.2573
-  
+
     ![image-20241205092134616](assets/image-20241205092134616.png)
-  
+
   
 
 - 결과 분석
