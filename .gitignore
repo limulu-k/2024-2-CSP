@@ -9,3 +9,5 @@
 original_weekly_co2(unused).csv
 # To Ignore macOS file Metadata #
 .DS_Store
+
+*.pth
